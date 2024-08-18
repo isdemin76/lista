@@ -23,9 +23,47 @@ http://79306.tvdev.club:8080/TV-49703898/468045796506/110590
 http://79306.tvdev.club:8080/TV-49703898/468045796506/110589
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="|ES| M+ LALIGA TV HYPERMOTION 3 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJPCjPuCKxAp5NJqM9K9arpufGy_lKcHYtoVNMmhxSh-jNLLi4dgmT48yxzTFLDex5W1bMEMP25vNqVRR6NsYUu3mMkA_2eKp2nE7UNAisbh6bRGOxclJ4WgWZA6DQuFGp55XvQZq7fuhwNOCPgaJSRw.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 3 FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/110591
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5iTtQUEdzJXVhUr7v4kT9oqb1vuOQtHXe8V3tbId9QaWMw3jW7bfTHmSpEQJOp88hTBJpLSRB0e28Q0Fd0WcMtt6SJ4keMisRQ8oC455IsIlQheDxOKGOxLaV7RVwOaD.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR FHD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="|ES| M+ LALIGA TV HYPERMOTION 3 (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="ES - FUTBOL",|ES| M+ LALIGA TV HYPERMOTION 3 (720P)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438666
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  4 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  4 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439129
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 4 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 4 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439130
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  5 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  5 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439131
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 5 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 5 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439132
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 6 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 6 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439134
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  6 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  6 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439133
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  7 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  7 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439135
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  7 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  7 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439136
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  8 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  8 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439137
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  8 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  8 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439138
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  9 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  9 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439139
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 9 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 9 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439140
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 10 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 10 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439141
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 10 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 10 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439142
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 11 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 11 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439143
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  11 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  11 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439144
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion 12 FHD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion 12 FHD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439145
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Liga tv Hypermotion  12 SD (ES)" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ Liga tv Hypermotion  12 SD (ES)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439146
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/tv-bar-temporada23-24.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/101681
-#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://logo.solanaflix.com/images/logos/5iTtQUEdzJXVhUr7v4kT9oqb1vuOQtHXe8V3tbId9QaWMw3jW7bfTHmSpEQJOp88hTBJpLSRB0e28Q0Fd0WcMtt6SJ4keMisRQ8oC455IsIlQheDxOKGOxLaV7RVwOaD.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR
+#EXTINF:-1 tvg-id="LaLiga TV BAR" tvg-name="|ES| LALIGA TV BAR" tvg-logo="https://noos.vip/logo/ES/laligatvbar.png" group-title="ES - FUTBOL",|ES| LALIGA TV BAR
 http://79306.tvdev.club:8080/TV-49703898/468045796506/101682
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="|ES| DAZN LALIGA FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/41TDgJeXhbrzaISW2mFDO1_dKehm5qZz4OYIvHUrlNC1YuszwJSmceIxSR9fmo_VnZeCNUgMnzhTjGPMQvr9fzbQH16Nrc-2FIXY_XT_8nk.png" group-title="ES - FUTBOL",|ES| DAZN LALIGA FHD (HEVC)
 http://79306.tvdev.club:8080/TV-49703898/468045796506/109316
@@ -115,7 +153,7 @@ http://79306.tvdev.club:8080/TV-49703898/468045796506/48540
 http://79306.tvdev.club:8080/TV-49703898/468045796506/438301
 #EXTINF:-1 tvg-id="M+ GOLF 2 HD" tvg-name="|ES| M+ Golf 2 HD (720P)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ES - DEPORTES",|ES| M+ Golf 2 HD (720P)
 http://79306.tvdev.club:8080/TV-49703898/468045796506/438302
-#EXTINF:-1 tvg-id="TOROSHD" tvg-name="|ES| TOROLE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5faccf2983f789bf4e09a567b58aa9a2.png" group-title="ES - DEPORTES",|ES| TOROLE FHD
+#EXTINF:-1 tvg-id="TOROSHD" tvg-name="|ES| TOROLE FHD" tvg-logo="https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg?ezimgfmt=ngcb1/notWebP" group-title="ES - DEPORTES",|ES| TOROLE FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48548
 #EXTINF:-1 tvg-id="Onetoro TV" tvg-name="|ES| ONE TORO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5faccf2983f789bf4e09a567b58aa9a2.png" group-title="ES - DEPORTES",|ES| ONE TORO FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48547
@@ -125,7 +163,7 @@ http://79306.tvdev.club:8080/TV-49703898/468045796506/48496
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48605
 #EXTINF:-1 tvg-id="Multideporte" tvg-name="|ES| MULTIDEPORTE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rPdZbViWE29ajRD863HK-_kwcVLG8WqgRFt6gw6xYX4apt-2_FitOArH9oJPgrPCGF1kIInyB8Fr2RtDla_GSQ.png" group-title="ES - DEPORTES",|ES| MULTIDEPORTE FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48527
-#EXTINF:-1 tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT AUSTRALIAN DIAL 520 UHD (4K) - En pruebas" tvg-logo="http://fanc.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="ES - DEPORTES",|ES| EUROSPORT AUSTRALIAN DIAL 520 UHD (4K) - En pruebas
+#EXTINF:-1 tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1 UHD (4K) - En pruebas" tvg-logo="http://fanc.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="ES - DEPORTES",|ES| EUROSPORT 1 UHD (4K) - En pruebas
 http://79306.tvdev.club:8080/TV-49703898/468045796506/418604
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/9022d29e833941a833cf52ad0b337346.png" group-title="ES - DEPORTES",|ES| EUROSPORT 1 FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48536
@@ -135,13 +173,27 @@ http://79306.tvdev.club:8080/TV-49703898/468045796506/48535
 http://79306.tvdev.club:8080/TV-49703898/468045796506/102765
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="|ES| EUROSPORT 2" tvg-logo="http://logo.solanaflix.com/images/logos/1ab6f436b2918cbcaff21cb57ffb8947.png" group-title="ES - DEPORTES",|ES| EUROSPORT 2
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48537
+#EXTINF:-1 tvg-id="" tvg-name="|ES|Eurosport 3 HD" tvg-logo="" group-title="ES - DEPORTES",|ES|Eurosport 3 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439159
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Eurosport 4 HD" tvg-logo="" group-title="ES - DEPORTES",|ES| Eurosport 4 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439160
+#EXTINF:-1 tvg-id="" tvg-name="|ES|Eurosport 5 HD" tvg-logo="" group-title="ES - DEPORTES",|ES|Eurosport 5 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439161
+#EXTINF:-1 tvg-id="" tvg-name="|ES|Eurosport 6 HD" tvg-logo="" group-title="ES - DEPORTES",|ES|Eurosport 6 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439162
+#EXTINF:-1 tvg-id="" tvg-name="|ES|Eurosport 7 HD" tvg-logo="" group-title="ES - DEPORTES",|ES|Eurosport 7 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439163
+#EXTINF:-1 tvg-id="" tvg-name="|ES|Eurosport 8 HD" tvg-logo="" group-title="ES - DEPORTES",|ES|Eurosport 8 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439164
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Eurosport 9 HD" tvg-logo="" group-title="ES - DEPORTES",|ES| Eurosport 9 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/439165
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://logo.solanaflix.com/images/logos/f2441f5007f7434c4016d8c772892d5b.png" group-title="ES - DEPORTES",|ES| TELEDEPORTE
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48545
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/f2441f5007f7434c4016d8c772892d5b.png" group-title="ES - DEPORTES",|ES| TELEDEPORTE FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48546
 #EXTINF:-1 tvg-id="Esport 3" tvg-name="|ES| ESPORT 3" tvg-logo="http://logo.solanaflix.com/images/logos/97e7168864b8f624c099101b442a970c.png" group-title="ES - DEPORTES",|ES| ESPORT 3
 http://79306.tvdev.club:8080/TV-49703898/468045796506/48549
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="|ES| DAZN 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ES - DEPORTES",|ES| DAZN 1 FHD
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="|ES| DAZN 1 FHD (HEVC)" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ES - DEPORTES",|ES| DAZN 1 FHD (HEVC)
 http://79306.tvdev.club:8080/TV-49703898/468045796506/60298
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="|ES| DAZN 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ES - DEPORTES",|ES| DAZN 1
 http://79306.tvdev.club:8080/TV-49703898/468045796506/60297
@@ -153,751 +205,1077 @@ http://79306.tvdev.club:8080/TV-49703898/468045796506/79529
 http://79306.tvdev.club:8080/TV-49703898/468045796506/79530
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="|ES| DAZN 4 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ES - DEPORTES",|ES| DAZN 4 FHD
 http://79306.tvdev.club:8080/TV-49703898/468045796506/79531
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pure Babes TV" tvg-logo="" group-title="ADULTS",|ADULT| Pure Babes TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98993
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Naughty TV" tvg-logo="" group-title="ADULTS",|ADULT| Naughty TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98994
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Legal TV" tvg-logo="" group-title="ADULTS",|ADULT| Legal TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98995
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| HOT MAN" tvg-logo="" group-title="ADULTS",|XXX| HOT MAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98996
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| HOT TABOO" tvg-logo="" group-title="ADULTS",|XXX| HOT TABOO
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98997
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| PLAYBOY TV" tvg-logo="" group-title="ADULTS",|XXX| PLAYBOY TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98998
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| VENUS" tvg-logo="" group-title="ADULTS",|XXX| VENUS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/98999
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| HOT ᴴᴰ" tvg-logo="" group-title="ADULTS",|XXX| HOT ᴴᴰ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99000
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| SEXTREME" tvg-logo="" group-title="ADULTS",|XXX| SEXTREME
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99001
-#EXTINF:-1 tvg-id="" tvg-name="|XXX| PENTHOUSE ᴴᴰ" tvg-logo="" group-title="ADULTS",|XXX| PENTHOUSE ᴴᴰ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99002
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Hustler HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99003
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Redlight HD" tvg-logo="" group-title="ADULTS",|ADULT| Redlight HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99004
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Prıvate TV HD" tvg-logo="" group-title="ADULTS",|ADULT| Prıvate TV HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99005
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel HD" tvg-logo="" group-title="ADULTS",|ADULT| Dorcel HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99006
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel XXX HD" tvg-logo="" group-title="ADULTS",|ADULT| Dorcel XXX HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99007
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid Red HD" tvg-logo="" group-title="ADULTS",|ADULT| Vivid Red HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99008
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox HD" tvg-logo="" group-title="ADULTS",|ADULT| Erox HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99009
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox XXX HD" tvg-logo="" group-title="ADULTS",|ADULT| Erox XXX HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99010
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Gold HD" tvg-logo="" group-title="ADULTS",|ADULT| Penthouse Gold HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99011
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Quickies HD" tvg-logo="" group-title="ADULTS",|ADULT| Penthouse Quickies HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99012
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Super One HD" tvg-logo="" group-title="ADULTS",|ADULT| Super One HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99013
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Babes TV HD" tvg-logo="" group-title="ADULTS",|ADULT| Babes TV HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99014
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Plus HD" tvg-logo="" group-title="ADULTS",|ADULT| XY Plus HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99015
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Max HD" tvg-logo="" group-title="ADULTS",|ADULT| XY Max HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99016
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XY Mix HD" tvg-logo="" group-title="ADULTS",|ADULT| XY Mix HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99017
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid TV Europe" tvg-logo="" group-title="ADULTS",|ADULT| Vivid TV Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99018
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid TV Europe CZ" tvg-logo="" group-title="ADULTS",|ADULT| Vivid TV Europe CZ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99019
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| DUSK!" tvg-logo="" group-title="ADULTS",|ADULT| DUSK!
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99020
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler TV" tvg-logo="" group-title="ADULTS",|ADULT| Hustler TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99021
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="ADULTS",|ADULT| XXL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99022
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Passie XXX" tvg-logo="" group-title="ADULTS",|ADULT| Passie XXX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99023
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Passion XXX" tvg-logo="" group-title="ADULTS",|ADULT| Passion XXX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99024
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Reality Kings TV" tvg-logo="" group-title="ADULTS",|ADULT| Reality Kings TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99025
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BraZZers TV" tvg-logo="" group-title="ADULTS",|ADULT| BraZZers TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99026
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Brazzers TV Europe" tvg-logo="" group-title="ADULTS",|ADULT| Brazzers TV Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99027
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Brazzers TV Europe Russia" tvg-logo="" group-title="ADULTS",|ADULT| Brazzers TV Europe Russia
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99028
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Sexy HOT" tvg-logo="" group-title="ADULTS",|ADULT| Sexy HOT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99029
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Meiden Van Holland Hard" tvg-logo="" group-title="ADULTS",|ADULT| Meiden Van Holland Hard
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99030
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Evil Angel" tvg-logo="" group-title="ADULTS",|ADULT| Evil Angel
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99031
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99032
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 2" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99033
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 3" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 3
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99034
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 4" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 4
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99035
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 5" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 5
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99036
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 6" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 6
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99037
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 7" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 7
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99038
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pink Erotic 8" tvg-logo="" group-title="ADULTS",|ADULT| Pink Erotic 8
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99039
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Шалун TV" tvg-logo="" group-title="ADULTS",|ADULT| Шалун TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99040
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy" tvg-logo="" group-title="ADULTS",|ADULT| Playboy
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99041
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy TV" tvg-logo="" group-title="ADULTS",|ADULT| Playboy TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99042
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy Europe HD" tvg-logo="" group-title="ADULTS",|ADULT| Playboy Europe HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99043
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy Europe" tvg-logo="" group-title="ADULTS",|ADULT| Playboy Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99044
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99045
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99046
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler Europe" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99047
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Russian Night" tvg-logo="" group-title="ADULTS",|ADULT| Russian Night
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99048
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Russian Night Europe" tvg-logo="" group-title="ADULTS",|ADULT| Russian Night Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99049
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Barely Legal TV" tvg-logo="" group-title="ADULTS",|ADULT| Barely Legal TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99050
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Nuart TV" tvg-logo="" group-title="ADULTS",|ADULT| Nuart TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99051
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Nuart TV Europe" tvg-logo="" group-title="ADULTS",|ADULT| Nuart TV Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99052
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| O la la TV" tvg-logo="" group-title="ADULTS",|ADULT| O la la TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99053
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| French Lover TV" tvg-logo="" group-title="ADULTS",|ADULT| French Lover TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99054
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Secret Circle TV" tvg-logo="" group-title="ADULTS",|ADULT| Secret Circle TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99055
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Exxxotica TV" tvg-logo="" group-title="ADULTS",|ADULT| Exxxotica TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99056
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Sex Prive" tvg-logo="" group-title="ADULTS",|ADULT| Sex Prive
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99057
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Man2Man" tvg-logo="" group-title="ADULTS",|ADULT| Man2Man
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99058
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Jasmin TV" tvg-logo="" group-title="ADULTS",|ADULT| Jasmin TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99059
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| A3 Bikini TV" tvg-logo="" group-title="ADULTS",|ADULT| A3 Bikini TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99060
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bang U" tvg-logo="" group-title="ADULTS",|ADULT| Bang U
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99061
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bang U Europe" tvg-logo="" group-title="ADULTS",|ADULT| Bang U Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99062
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid Touch" tvg-logo="" group-title="ADULTS",|ADULT| Vivid Touch
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99063
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Passion" tvg-logo="" group-title="ADULTS",|ADULT| Penthouse Passion
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99064
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Oldtimer" tvg-logo="" group-title="ADULTS",|ADULT| Oldtimer
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99065
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bangerz" tvg-logo="" group-title="ADULTS",|ADULT| Bangerz
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99066
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Net XX" tvg-logo="" group-title="ADULTS",|ADULT| Net XX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99067
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playhouse" tvg-logo="" group-title="ADULTS",|ADULT| Playhouse
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99068
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot Pleasure" tvg-logo="" group-title="ADULTS",|ADULT| Hot Pleasure
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99069
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Milf TV" tvg-logo="" group-title="ADULTS",|ADULT| Milf TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99070
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Red XXX" tvg-logo="" group-title="ADULTS",|ADULT| Red XXX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99071
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Extreme" tvg-logo="" group-title="ADULTS",|ADULT| Extreme
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99072
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Lesbian Affair" tvg-logo="" group-title="ADULTS",|ADULT| Lesbian Affair
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99073
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Emanuelle" tvg-logo="" group-title="ADULTS",|ADULT| Emanuelle
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99074
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| SEX ATION" tvg-logo="" group-title="ADULTS",|ADULT| SEX ATION
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99075
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hot XXL HD" tvg-logo="" group-title="ADULTS",|ADULT| Hot XXL HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99076
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Evil Angel Europe" tvg-logo="" group-title="ADULTS",|ADULT| Evil Angel Europe
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99077
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pinko Club" tvg-logo="" group-title="ADULTS",|ADULT| Pinko Club
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99078
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Pinko Club 2" tvg-logo="" group-title="ADULTS",|ADULT| Pinko Club 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99079
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Cent & Cento" tvg-logo="" group-title="ADULTS",|ADULT| Cent & Cento
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99080
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Free X TV HQ" tvg-logo="" group-title="ADULTS",|ADULT| Free X TV HQ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99081
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Free X TV" tvg-logo="" group-title="ADULTS",|ADULT| Free X TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99082
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Free X TV 2" tvg-logo="" group-title="ADULTS",|ADULT| Free X TV 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99083
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X-Dream TV" tvg-logo="" group-title="ADULTS",|ADULT| X-Dream TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99084
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X-Dream TV 2" tvg-logo="" group-title="ADULTS",|ADULT| X-Dream TV 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99085
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Balkan Erotic" tvg-logo="" group-title="ADULTS",|ADULT| Balkan Erotic
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99086
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Lust Pur TV" tvg-logo="" group-title="ADULTS",|ADULT| Lust Pur TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99087
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Beate-Uhse.TV" tvg-logo="" group-title="ADULTS",|ADULT| Beate-Uhse.TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99088
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Шёлк TV" tvg-logo="" group-title="ADULTS",|ADULT| Шёлк TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99089
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dream Porn HD" tvg-logo="" group-title="ADULTS",|ADULT| Dream Porn HD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99090
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Fast Boyz" tvg-logo="" group-title="ADULTS",|ADULT| Fast Boyz
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99091
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X-MO" tvg-logo="" group-title="ADULTS",|ADULT| X-MO
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99092
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Private TV" tvg-logo="" group-title="ADULTS",|ADULT| Private TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99093
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox" tvg-logo="" group-title="ADULTS",|ADULT| Erox
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99094
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Gold" tvg-logo="" group-title="ADULTS",|ADULT| Penthouse Gold
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99095
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X1" tvg-logo="" group-title="ADULTS",|ADULT| X1
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99096
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X Bizarre" tvg-logo="" group-title="ADULTS",|ADULT| X Bizarre
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99097
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X Desire" tvg-logo="" group-title="ADULTS",|ADULT| X Desire
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99098
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| X Bunga Bunga" tvg-logo="" group-title="ADULTS",|ADULT| X Bunga Bunga
-http://79306.tvdev.club:8080/TV-49703898/468045796506/99099
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: TEENIE" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: TEENIE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114014
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: STUDENT" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: STUDENT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114015
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: SCHOOL" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: SCHOOL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114016
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: REALITY" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: REALITY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114017
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: ORGASM" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: ORGASM
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114018
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: MASTURBATION" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: MASTURBATION
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114019
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: MASSAGE" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: MASSAGE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114020
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: ITALY" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: ITALY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114021
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: PRISONERS" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: PRISONERS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114022
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: FISTING" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: FISTING
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114023
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: FETISH" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: FETISH
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114024
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: THREE" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: THREE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114025
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: CUCKOLD" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: CUCKOLD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114026
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: CROSPLAY" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: CROSPLAY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114027
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: CASTING" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: CASTING
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114028
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: CAARTON PORN" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: CAARTON PORN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114029
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BLOWJOB" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BLOWJOB
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114030
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BLOND" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BLOND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114031
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BISEXUEL" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BISEXUEL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114032
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BIG TITS" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BIG TITS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114033
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BIG COOK" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BIG COOK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114034
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: BABYSITER" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: BABYSITER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114035
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: ASIAN" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: ASIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114036
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: ANAL" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: ANAL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114037
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: CLASSIC" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: CLASSIC
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114038
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CATAGORIES: MY WIFE" tvg-logo="" group-title="ADULTS",PORN✰CATAGORIES: MY WIFE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114039
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: SYBL" tvg-logo="" group-title="ADULTS",PORN✰STAR: SYBL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114040
-#EXTINF:-1 tvg-id="" tvg-name="PORNSTAR: TEANNA TRUMP" tvg-logo="" group-title="ADULTS",PORNSTAR: TEANNA TRUMP
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114041
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: NATASHA NICE" tvg-logo="" group-title="ADULTS",PORN✰STAR: NATASHA NICE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114042
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: RICKY JOHSON" tvg-logo="" group-title="ADULTS",PORN✰STAR: RICKY JOHSON
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114043
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: TONY PROFANE" tvg-logo="" group-title="ADULTS",PORN✰STAR: TONY PROFANE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114044
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: VINA SKY" tvg-logo="" group-title="ADULTS",PORN✰STAR: VINA SKY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114045
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: VALENTINA NAPPI" tvg-logo="" group-title="ADULTS",PORN✰STAR: VALENTINA NAPPI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114046
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: SBYL" tvg-logo="" group-title="ADULTS",PORN✰STAR: SBYL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114047
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: DREDD" tvg-logo="" group-title="ADULTS",PORN✰STAR: DREDD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114048
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: LISA ANN" tvg-logo="" group-title="ADULTS",PORN✰STAR: LISA ANN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114049
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KYLER QIUNN" tvg-logo="" group-title="ADULTS",PORN✰STAR: KYLER QIUNN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114050
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KIRA NOIR" tvg-logo="" group-title="ADULTS",PORN✰STAR: KIRA NOIR
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114051
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KENDRA SUNDERLAND" tvg-logo="" group-title="ADULTS",PORN✰STAR: KENDRA SUNDERLAND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114052
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KENDRA SPADE" tvg-logo="" group-title="ADULTS",PORN✰STAR: KENDRA SPADE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114053
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KENDRA LUST" tvg-logo="" group-title="ADULTS",PORN✰STAR: KENDRA LUST
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114054
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KEIRAN LEE" tvg-logo="" group-title="ADULTS",PORN✰STAR: KEIRAN LEE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114055
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KAYLER GUNNER" tvg-logo="" group-title="ADULTS",PORN✰STAR: KAYLER GUNNER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114056
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KALI ROSES" tvg-logo="" group-title="ADULTS",PORN✰STAR: KALI ROSES
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114057
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: KARMA RX" tvg-logo="" group-title="ADULTS",PORN✰STAR: KARMA RX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114058
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: JEWELZ BLU" tvg-logo="" group-title="ADULTS",PORN✰STAR: JEWELZ BLU
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114059
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: JAMES DEEN" tvg-logo="" group-title="ADULTS",PORN✰STAR: JAMES DEEN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114060
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: HELENA PRICE" tvg-logo="" group-title="ADULTS",PORN✰STAR: HELENA PRICE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114061
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: GINEBRA BELLUCCI" tvg-logo="" group-title="ADULTS",PORN✰STAR: GINEBRA BELLUCCI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114062
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: ELSA JEAN" tvg-logo="" group-title="ADULTS",PORN✰STAR: ELSA JEAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114063
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: DANI DANIELS" tvg-logo="" group-title="ADULTS",PORN✰STAR: DANI DANIELS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114064
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: CRYSTAL RUSH" tvg-logo="" group-title="ADULTS",PORN✰STAR: CRYSTAL RUSH
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114065
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: CHERIE DEVILLE" tvg-logo="" group-title="ADULTS",PORN✰STAR: CHERIE DEVILLE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114066
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: CANELA SKIN" tvg-logo="" group-title="ADULTS",PORN✰STAR: CANELA SKIN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114067
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: BRANDI LOVE" tvg-logo="" group-title="ADULTS",PORN✰STAR: BRANDI LOVE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114068
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: ADRIA RAE" tvg-logo="" group-title="ADULTS",PORN✰STAR: ADRIA RAE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114069
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰STAR: ADRIANA CHECHIK" tvg-logo="" group-title="ADULTS",PORN✰STAR: ADRIANA CHECHIK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114070
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰TRANS: AUBREY KATE" tvg-logo="" group-title="ADULTS",PORN✰TRANS: AUBREY KATE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114071
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰TRANS: NATALIE MARS" tvg-logo="" group-title="ADULTS",PORN✰TRANS: NATALIE MARS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114072
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: #ATLAS GRAN GAY" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: #ATLAS GRAN GAY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114073
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: #ARMOND RIZZO GAY" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: #ARMOND RIZZO GAY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114074
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: #NEXT DOOR RAW" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: #NEXT DOOR RAW
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114075
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: HITZEFREI" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: HITZEFREI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114076
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: DEUTSCHLAND REPORT" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: DEUTSCHLAND REPORT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114077
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: WOLF WAGNER LOVE" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: WOLF WAGNER LOVE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114078
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: USER DATE" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: USER DATE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114079
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: EROTIK VON BENAN" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: EROTIK VON BENAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114080
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰GERMAN: BUMSBUS" tvg-logo="" group-title="ADULTS",PORN✰GERMAN: BUMSBUS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114081
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰LATINA: #MAMACITAZ" tvg-logo="" group-title="ADULTS",PORN✰LATINA: #MAMACITAZ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114082
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰LATINA: #LAS FOLLADORAS" tvg-logo="" group-title="ADULTS",PORN✰LATINA: #LAS FOLLADORAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114083
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: STEP SIBILINGS CAUGHT" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: STEP SIBILINGS CAUGHT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114084
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: JAYS POV" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: JAYS POV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114085
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: 1111 CUSTOMERS" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: 1111 CUSTOMERS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114086
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: BRAZZERS" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: BRAZZERS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114087
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL:MY PERVY FAMILY" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL:MY PERVY FAMILY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114088
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: SPANKMONSTER" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: SPANKMONSTER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114089
-#EXTINF:-1 tvg-id="" tvg-name="PORN✰CHANNEL: SUGAR BABES TV" tvg-logo="" group-title="ADULTS",PORN✰CHANNEL: SUGAR BABES TV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114090
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: COLBY-KNOX" tvg-logo="" group-title="ADULTS",PORNHUB: COLBY-KNOX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114091
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: FLAVA -WORKS" tvg-logo="" group-title="ADULTS",PORNHUB: FLAVA -WORKS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114092
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MEN" tvg-logo="" group-title="ADULTS",PORNHUB: MEN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114093
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NEXT-DOOR-RAW" tvg-logo="" group-title="ADULTS",PORNHUB: NEXT-DOOR-RAW
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114094
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TREASURE-ISLAND" tvg-logo="" group-title="ADULTS",PORNHUB: TREASURE-ISLAND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114095
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ATLAS GRAN" tvg-logo="" group-title="ADULTS",PORNHUB: ATLAS GRAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114096
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CALVIN-BANK" tvg-logo="" group-title="ADULTS",PORNHUB: CALVIN-BANK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114097
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CASEY-KISSES" tvg-logo="" group-title="ADULTS",PORNHUB: CASEY-KISSES
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114098
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHANEK SANTINI" tvg-logo="" group-title="ADULTS",PORNHUB: CHANEK SANTINI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114099
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DANTE COLLE" tvg-logo="" group-title="ADULTS",PORNHUB: DANTE COLLE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114100
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DEANGELO-JACKSON" tvg-logo="" group-title="ADULTS",PORNHUB: DEANGELO-JACKSON
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114101
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JACK-HUNTER" tvg-logo="" group-title="ADULTS",PORNHUB: JACK-HUNTER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114102
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KHLOE-KAY" tvg-logo="" group-title="ADULTS",PORNHUB: KHLOE-KAY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114103
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KYLER MOSS" tvg-logo="" group-title="ADULTS",PORNHUB: KYLER MOSS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114104
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MAX-KONNOR" tvg-logo="" group-title="ADULTS",PORNHUB: MAX-KONNOR
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114105
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NATALIE MARS" tvg-logo="" group-title="ADULTS",PORNHUB: NATALIE MARS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114106
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: RICKY-LARKIN" tvg-logo="" group-title="ADULTS",PORNHUB: RICKY-LARKIN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114107
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ROCCO STEELE" tvg-logo="" group-title="ADULTS",PORNHUB: ROCCO STEELE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114108
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SHIRI-ALLWOOD" tvg-logo="" group-title="ADULTS",PORNHUB: SHIRI-ALLWOOD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114109
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TRANSGENDER" tvg-logo="" group-title="ADULTS",PORNHUB: TRANSGENDER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114110
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TS-FOXXY" tvg-logo="" group-title="ADULTS",PORNHUB: TS-FOXXY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114111
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ASIAN BONDAGE" tvg-logo="" group-title="ADULTS",PORNHUB: ASIAN BONDAGE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114112
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ASIAN-SEX-DIARY" tvg-logo="" group-title="ADULTS",PORNHUB: ASIAN-SEX-DIARY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114113
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: WORLD OF ASIAN" tvg-logo="" group-title="ADULTS",PORNHUB: WORLD OF ASIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114114
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SIMPLY-ASIAN" tvg-logo="" group-title="ADULTS",PORNHUB: SIMPLY-ASIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114115
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MODEL-MEDIA-ASIAN" tvg-logo="" group-title="ADULTS",PORNHUB: MODEL-MEDIA-ASIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114116
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LITTLE ASIANS" tvg-logo="" group-title="ADULTS",PORNHUB: LITTLE ASIANS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114117
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: GOLDEN-ASIA-CHERRY" tvg-logo="" group-title="ADULTS",PORNHUB: GOLDEN-ASIA-CHERRY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114118
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHINA-XXX" tvg-logo="" group-title="ADULTS",PORNHUB: CHINA-XXX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114119
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLACKED" tvg-logo="" group-title="ADULTS",PORNHUB: BLACKED
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114120
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLACKED-RAW" tvg-logo="" group-title="ADULTS",PORNHUB: BLACKED-RAW
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114121
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLACK-GFS" tvg-logo="" group-title="ADULTS",PORNHUB: BLACK-GFS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114122
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLACK-NEED" tvg-logo="" group-title="ADULTS",PORNHUB: BLACK-NEED
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114123
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: IBIZA" tvg-logo="" group-title="ADULTS",PORNHUB: IBIZA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114124
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: PRIVATE-BLACK" tvg-logo="" group-title="ADULTS",PORNHUB: PRIVATE-BLACK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114125
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: VUBADO-BLACK" tvg-logo="" group-title="ADULTS",PORNHUB: VUBADO-BLACK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114126
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: 1111-CUSTOMERS" tvg-logo="" group-title="ADULTS",PORNHUB: 1111-CUSTOMERS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114127
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BRATTY-SIS" tvg-logo="" group-title="ADULTS",PORNHUB: BRATTY-SIS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114128
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BRAZZERS" tvg-logo="" group-title="ADULTS",PORNHUB: BRAZZERS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114129
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DOGFART-NETWORK" tvg-logo="" group-title="ADULTS",PORNHUB: DOGFART-NETWORK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114130
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JAYS-POV" tvg-logo="" group-title="ADULTS",PORNHUB: JAYS-POV
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114131
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MY-PERVY-FAMILY" tvg-logo="" group-title="ADULTS",PORNHUB: MY-PERVY-FAMILY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114132
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NF-BUSTY" tvg-logo="" group-title="ADULTS",PORNHUB: NF-BUSTY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114133
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SPANKMONSTER" tvg-logo="" group-title="ADULTS",PORNHUB: SPANKMONSTER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114134
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SPIZO" tvg-logo="" group-title="ADULTS",PORNHUB: SPIZO
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114135
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: STEP-SIBLINGS-CAUGHT" tvg-logo="" group-title="ADULTS",PORNHUB: STEP-SIBLINGS-CAUGHT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114136
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SUGAR-BABES" tvg-logo="" group-title="ADULTS",PORNHUB: SUGAR-BABES
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114137
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: 3-WAY-PORN" tvg-logo="" group-title="ADULTS",PORNHUB: 3-WAY-PORN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114138
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ALL-GROUP-SEX" tvg-logo="" group-title="ADULTS",PORNHUB: ALL-GROUP-SEX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114139
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: COLLECTIVE-PLEASURE" tvg-logo="" group-title="ADULTS",PORNHUB: COLLECTIVE-PLEASURE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114140
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DORCEL-CLUB" tvg-logo="" group-title="ADULTS",PORNHUB: DORCEL-CLUB
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114141
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KINKY-FAMILY" tvg-logo="" group-title="ADULTS",PORNHUB: KINKY-FAMILY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114142
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MISS-LINGLING" tvg-logo="" group-title="ADULTS",PORNHUB: MISS-LINGLING
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114143
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MOFOS" tvg-logo="" group-title="ADULTS",PORNHUB: MOFOS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114144
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MONSTER-OF-COCK" tvg-logo="" group-title="ADULTS",PORNHUB: MONSTER-OF-COCK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114145
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NET-VIDEOS" tvg-logo="" group-title="ADULTS",PORNHUB: NET-VIDEOS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114146
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: PURE-BBW" tvg-logo="" group-title="ADULTS",PORNHUB: PURE-BBW
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114147
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: REAL-GANGBANGS" tvg-logo="" group-title="ADULTS",PORNHUB: REAL-GANGBANGS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114148
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: WOLF-WAGNER" tvg-logo="" group-title="ADULTS",PORNHUB: WOLF-WAGNER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114149
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DEUTSCHLAND-REPORT" tvg-logo="" group-title="ADULTS",PORNHUB: DEUTSCHLAND-REPORT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114150
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HITZEFREI" tvg-logo="" group-title="ADULTS",PORNHUB: HITZEFREI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114151
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: REIFE-SWINGER" tvg-logo="" group-title="ADULTS",PORNHUB: REIFE-SWINGER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114152
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SEX-TAPE-GERMANY" tvg-logo="" group-title="ADULTS",PORNHUB: SEX-TAPE-GERMANY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114153
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BUMSBUS" tvg-logo="" group-title="ADULTS",PORNHUB: BUMSBUS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114154
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: EROTIK-VON-BENAN" tvg-logo="" group-title="ADULTS",PORNHUB: EROTIK-VON-BENAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114155
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: USERDATE-DEUTSCHLAND" tvg-logo="" group-title="ADULTS",PORNHUB: USERDATE-DEUTSCHLAND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114156
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HITZE-FREI 2" tvg-logo="" group-title="ADULTS",PORNHUB: HITZE-FREI 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114157
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: USERDATE-INTERMATIONAL" tvg-logo="" group-title="ADULTS",PORNHUB: USERDATE-INTERMATIONAL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114158
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: WILD-GANGBANGS" tvg-logo="" group-title="ADULTS",PORNHUB: WILD-GANGBANGS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114159
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: WOLF-WAGNER-LOVE" tvg-logo="" group-title="ADULTS",PORNHUB: WOLF-WAGNER-LOVE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114160
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ADRIANA-CHECHIK" tvg-logo="" group-title="ADULTS",PORNHUB: ADRIANA-CHECHIK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114161
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ADRIA-RAE" tvg-logo="" group-title="ADULTS",PORNHUB: ADRIA-RAE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114162
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BRANDI-LOVE" tvg-logo="" group-title="ADULTS",PORNHUB: BRANDI-LOVE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114163
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CANELA-SKIN" tvg-logo="" group-title="ADULTS",PORNHUB: CANELA-SKIN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114164
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHERIE-DEVILLE" tvg-logo="" group-title="ADULTS",PORNHUB: CHERIE-DEVILLE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114165
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHLOE-TEMPLE" tvg-logo="" group-title="ADULTS",PORNHUB: CHLOE-TEMPLE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114166
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CRYSTAL-RUSH" tvg-logo="" group-title="ADULTS",PORNHUB: CRYSTAL-RUSH
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114167
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DANI-DANIELS" tvg-logo="" group-title="ADULTS",PORNHUB: DANI-DANIELS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114168
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ELSA-JEAN" tvg-logo="" group-title="ADULTS",PORNHUB: ELSA-JEAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114169
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: GABRIELLE" tvg-logo="" group-title="ADULTS",PORNHUB: GABRIELLE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114170
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: GINEBRA-BELLUCCI" tvg-logo="" group-title="ADULTS",PORNHUB: GINEBRA-BELLUCCI
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114171
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HELENA-PRICE" tvg-logo="" group-title="ADULTS",PORNHUB: HELENA-PRICE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114172
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JAMES-DEEN" tvg-logo="" group-title="ADULTS",PORNHUB: JAMES-DEEN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114173
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JEWELZ-BLU" tvg-logo="" group-title="ADULTS",PORNHUB: JEWELZ-BLU
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114174
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JHONNY-SINS" tvg-logo="" group-title="ADULTS",PORNHUB: JHONNY-SINS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114175
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: JORDI-EL-POLLA" tvg-logo="" group-title="ADULTS",PORNHUB: JORDI-EL-POLLA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114176
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KAERMA-RX" tvg-logo="" group-title="ADULTS",PORNHUB: KAERMA-RX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114177
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KALI-ROSES" tvg-logo="" group-title="ADULTS",PORNHUB: KALI-ROSES
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114178
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KAYLER-GUNER" tvg-logo="" group-title="ADULTS",PORNHUB: KAYLER-GUNER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114179
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KEIRAN-LEE" tvg-logo="" group-title="ADULTS",PORNHUB: KEIRAN-LEE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114180
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KENDRA-LUST" tvg-logo="" group-title="ADULTS",PORNHUB: KENDRA-LUST
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114181
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KENDRA-SPADE" tvg-logo="" group-title="ADULTS",PORNHUB: KENDRA-SPADE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114182
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KENDRA-SUNDERLAND" tvg-logo="" group-title="ADULTS",PORNHUB: KENDRA-SUNDERLAND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114183
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KENZIE-MADISON" tvg-logo="" group-title="ADULTS",PORNHUB: KENZIE-MADISON
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114184
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KIRA-NOIR" tvg-logo="" group-title="ADULTS",PORNHUB: KIRA-NOIR
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114185
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: KYLER-QUINN" tvg-logo="" group-title="ADULTS",PORNHUB: KYLER-QUINN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114186
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LEXI-LORE" tvg-logo="" group-title="ADULTS",PORNHUB: LEXI-LORE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114187
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LIL-D" tvg-logo="" group-title="ADULTS",PORNHUB: LIL-D
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114188
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LISA-ANN" tvg-logo="" group-title="ADULTS",PORNHUB: LISA-ANN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114189
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LUNA-STAR" tvg-logo="" group-title="ADULTS",PORNHUB: LUNA-STAR
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114190
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MADISON-IVY" tvg-logo="" group-title="ADULTS",PORNHUB: MADISON-IVY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114191
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHRIS-DIAMOND" tvg-logo="" group-title="ADULTS",PORNHUB: CHRIS-DIAMOND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114192
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DREED" tvg-logo="" group-title="ADULTS",PORNHUB: DREED
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114193
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DANNY-D" tvg-logo="" group-title="ADULTS",PORNHUB: DANNY-D
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114194
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TONY-PROFANE" tvg-logo="" group-title="ADULTS",PORNHUB: TONY-PROFANE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114195
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MIA-KHALIFA" tvg-logo="" group-title="ADULTS",PORNHUB: MIA-KHALIFA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114196
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MIA-MALKOVA" tvg-logo="" group-title="ADULTS",PORNHUB: MIA-MALKOVA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114197
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NACHO-VIDA" tvg-logo="" group-title="ADULTS",PORNHUB: NACHO-VIDA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114198
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NATASCHA-NICE" tvg-logo="" group-title="ADULTS",PORNHUB: NATASCHA-NICE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114199
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NICOLE-ANITSON" tvg-logo="" group-title="ADULTS",PORNHUB: NICOLE-ANITSON
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114200
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NICOLETTE-SHEA" tvg-logo="" group-title="ADULTS",PORNHUB: NICOLETTE-SHEA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114201
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: RAE-LIL-BLACK" tvg-logo="" group-title="ADULTS",PORNHUB: RAE-LIL-BLACK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114202
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: RICKY-JOHNSON" tvg-logo="" group-title="ADULTS",PORNHUB: RICKY-JOHNSON
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114203
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: RILEY-REID" tvg-logo="" group-title="ADULTS",PORNHUB: RILEY-REID
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114204
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SHARON-LEE" tvg-logo="" group-title="ADULTS",PORNHUB: SHARON-LEE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114205
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SKYLER-VOX" tvg-logo="" group-title="ADULTS",PORNHUB: SKYLER-VOX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114206
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SYBL" tvg-logo="" group-title="ADULTS",PORNHUB: SYBL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114207
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TEANNA-TRUMP" tvg-logo="" group-title="ADULTS",PORNHUB: TEANNA-TRUMP
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114208
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: VINA-SKY" tvg-logo="" group-title="ADULTS",PORNHUB: VINA-SKY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114209
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: 8TH-STREET" tvg-logo="" group-title="ADULTS",PORNHUB: 8TH-STREET
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114210
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: AMA-SPAIN-752" tvg-logo="" group-title="ADULTS",PORNHUB: AMA-SPAIN-752
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114211
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: AMATEUR-BRAZIL" tvg-logo="" group-title="ADULTS",PORNHUB: AMATEUR-BRAZIL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114212
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CARNE-DEL-MERCADO" tvg-logo="" group-title="ADULTS",PORNHUB: CARNE-DEL-MERCADO
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114213
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CHONGAS" tvg-logo="" group-title="ADULTS",PORNHUB: CHONGAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114214
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: EXPOSED-LATINAS" tvg-logo="" group-title="ADULTS",PORNHUB: EXPOSED-LATINAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114215
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HARD-BRAZIL" tvg-logo="" group-title="ADULTS",PORNHUB: HARD-BRAZIL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114216
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LAS-FLOLLADORAS" tvg-logo="" group-title="ADULTS",PORNHUB: LAS-FLOLLADORAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114217
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LATINA-RAMPAGE" tvg-logo="" group-title="ADULTS",PORNHUB: LATINA-RAMPAGE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114218
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LATINAS-SEX-TAPE" tvg-logo="" group-title="ADULTS",PORNHUB: LATINAS-SEX-TAPE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114219
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MAMACITAZ" tvg-logo="" group-title="ADULTS",PORNHUB: MAMACITAZ
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114220
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MIKE-IN-BRAZIL" tvg-logo="" group-title="ADULTS",PORNHUB: MIKE-IN-BRAZIL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114221
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MY-DIRTY-MAID" tvg-logo="" group-title="ADULTS",PORNHUB: MY-DIRTY-MAID
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114222
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: OPERACION-LIMPIEZA" tvg-logo="" group-title="ADULTS",PORNHUB: OPERACION-LIMPIEZA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114223
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: OPERACION-LIMPIEZA-LATINA" tvg-logo="" group-title="ADULTS",PORNHUB: OPERACION-LIMPIEZA-LATINA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114224
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: POR-NOVATAS" tvg-logo="" group-title="ADULTS",PORNHUB: POR-NOVATAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114225
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: PROBERTY-SEX" tvg-logo="" group-title="ADULTS",PORNHUB: PROBERTY-SEX
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114226
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: LETS DO IT [HIGH]" tvg-logo="" group-title="ADULTS",PORN4K: LETS DO IT [HIGH]
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114227
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: BENEFIT-MONKEY" tvg-logo="" group-title="ADULTS",PORN4K: BENEFIT-MONKEY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114228
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: CUCK-HUNTER" tvg-logo="" group-title="ADULTS",PORN4K: CUCK-HUNTER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114229
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: CUM-4K" tvg-logo="" group-title="ADULTS",PORN4K: CUM-4K
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114230
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: EXOTIC" tvg-logo="" group-title="ADULTS",PORN4K: EXOTIC
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114231
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: FAPADOO-THREESOMES" tvg-logo="" group-title="ADULTS",PORN4K: FAPADOO-THREESOMES
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114232
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: FIRST-CLASS" tvg-logo="" group-title="ADULTS",PORN4K: FIRST-CLASS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114233
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: FOXY4KME" tvg-logo="" group-title="ADULTS",PORN4K: FOXY4KME
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114234
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: SLIM4K" tvg-logo="" group-title="ADULTS",PORN4K: SLIM4K
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114235
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: TINY4K" tvg-logo="" group-title="ADULTS",PORN4K: TINY4K
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114236
-#EXTINF:-1 tvg-id="" tvg-name="PORN4K: TINY4K 2" tvg-logo="" group-title="ADULTS",PORN4K: TINY4K 2
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114237
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ANAL" tvg-logo="" group-title="ADULTS",PORNHUB: ANAL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114238
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ASIAN" tvg-logo="" group-title="ADULTS",PORNHUB: ASIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114239
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BABYSITER" tvg-logo="" group-title="ADULTS",PORNHUB: BABYSITER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114240
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BIG COOK" tvg-logo="" group-title="ADULTS",PORNHUB: BIG COOK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114241
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BIG-TITS" tvg-logo="" group-title="ADULTS",PORNHUB: BIG-TITS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114242
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BI-SEXUELL" tvg-logo="" group-title="ADULTS",PORNHUB: BI-SEXUELL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114243
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLACK" tvg-logo="" group-title="ADULTS",PORNHUB: BLACK
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114244
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLOND" tvg-logo="" group-title="ADULTS",PORNHUB: BLOND
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114245
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: BLOW" tvg-logo="" group-title="ADULTS",PORNHUB: BLOW
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114246
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CARTOON-PORN" tvg-logo="" group-title="ADULTS",PORNHUB: CARTOON-PORN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114247
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CASTING" tvg-logo="" group-title="ADULTS",PORNHUB: CASTING
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114248
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: X-MAS" tvg-logo="" group-title="ADULTS",PORNHUB: X-MAS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114249
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CREAMPIE" tvg-logo="" group-title="ADULTS",PORNHUB: CREAMPIE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114250
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CROSPLAY" tvg-logo="" group-title="ADULTS",PORNHUB: CROSPLAY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114251
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CUCKOLD" tvg-logo="" group-title="ADULTS",PORNHUB: CUCKOLD
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114252
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DUOBLE PENETRATION" tvg-logo="" group-title="ADULTS",PORNHUB: DUOBLE PENETRATION
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114253
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: DREIER" tvg-logo="" group-title="ADULTS",PORNHUB: DREIER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114254
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: FETISH" tvg-logo="" group-title="ADULTS",PORNHUB: FETISH
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114255
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: FISTING" tvg-logo="" group-title="ADULTS",PORNHUB: FISTING
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114256
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: GEFANGENE" tvg-logo="" group-title="ADULTS",PORNHUB: GEFANGENE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114257
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: GERMAN" tvg-logo="" group-title="ADULTS",PORNHUB: GERMAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114258
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HARDCORE" tvg-logo="" group-title="ADULTS",PORNHUB: HARDCORE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114259
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: HD-PORNO" tvg-logo="" group-title="ADULTS",PORNHUB: HD-PORNO
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114260
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ITALY" tvg-logo="" group-title="ADULTS",PORNHUB: ITALY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114261
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: CLASSICS" tvg-logo="" group-title="ADULTS",PORNHUB: CLASSICS
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114262
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: LESBIAN" tvg-logo="" group-title="ADULTS",PORNHUB: LESBIAN
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114263
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MASSAGE" tvg-logo="" group-title="ADULTS",PORNHUB: MASSAGE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114264
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MASTURBATION" tvg-logo="" group-title="ADULTS",PORNHUB: MASTURBATION
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114265
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MIDGET" tvg-logo="" group-title="ADULTS",PORNHUB: MIDGET
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114266
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MILF" tvg-logo="" group-title="ADULTS",PORNHUB: MILF
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114267
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: MY-WIFE" tvg-logo="" group-title="ADULTS",PORNHUB: MY-WIFE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114268
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NAUGHTY" tvg-logo="" group-title="ADULTS",PORNHUB: NAUGHTY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114269
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: NURSE" tvg-logo="" group-title="ADULTS",PORNHUB: NURSE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114270
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ORGASM" tvg-logo="" group-title="ADULTS",PORNHUB: ORGASM
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114271
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: OUTDOOR" tvg-logo="" group-title="ADULTS",PORNHUB: OUTDOOR
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114272
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: POLICE-OFFICER" tvg-logo="" group-title="ADULTS",PORNHUB: POLICE-OFFICER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114273
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: REALITY" tvg-logo="" group-title="ADULTS",PORNHUB: REALITY
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114274
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: ROMANCE" tvg-logo="" group-title="ADULTS",PORNHUB: ROMANCE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114275
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: RUSSIA" tvg-logo="" group-title="ADULTS",PORNHUB: RUSSIA
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114276
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SCHOOL" tvg-logo="" group-title="ADULTS",PORNHUB: SCHOOL
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114277
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: STUDENT" tvg-logo="" group-title="ADULTS",PORNHUB: STUDENT
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114278
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: SWINGER" tvg-logo="" group-title="ADULTS",PORNHUB: SWINGER
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114279
-#EXTINF:-1 tvg-id="" tvg-name="PORNHUB: TEENIE" tvg-logo="" group-title="ADULTS",PORNHUB: TEENIE
-http://79306.tvdev.club:8080/TV-49703898/468045796506/114280
+#EXTINF:-1 tvg-id="" tvg-name="|ES| RALLY TV (WRC)" tvg-logo="http://trastras.eu:2083/images/z_hDjAnw98TyytvGkDE54LOdYk1BhPO42KbOSdneLNRtEPhiknQbpSa3YF26cCI5.png" group-title="ES - DEPORTES",|ES| RALLY TV (WRC)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438256
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="|ES| M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MORIG.png" group-title="ES - CINE",|ES| M+ ORIGINALES FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48398
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="|ES| M+ ORIGINALES" tvg-logo="https://noos.vip/logo/ES/moriginales.png" group-title="ES - CINE",|ES| M+ ORIGINALES
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48397
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="|ES| M+ CINE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",|ES| M+ CINE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48400
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="|ES| M+ CINE" tvg-logo="http://logo.solanaflix.com/images/logos/1455d278e2d60d507074e65cee44e58e.png" group-title="ES - CINE",|ES| M+ CINE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48399
+#EXTINF:-1 tvg-id="MEST" tvg-name="|ES| M+ FHD" tvg-logo="http://jumeke.teamcdn.in:80/images/7e19f2b597d26d825548beaf2a7d31d1.png" group-title="ES - CINE",|ES| M+ FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/102334
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="|ES| Movistar+ Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bd59d4288fb4d9dfcb461429df8fe09.jpg" group-title="ES - CINE",|ES| Movistar+ Plus
+http://79306.tvdev.club:8080/TV-49703898/468045796506/102335
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="|ES| M+ ACCION FHD" tvg-logo="http://logo.solanaflix.com/images/logos/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="ES - CINE",|ES| M+ ACCION FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48402
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="|ES| M+ ACCION" tvg-logo="http://logo.solanaflix.com/images/logos/d97fb24e0deabe8b47e780745e3161d4.png" group-title="ES - CINE",|ES| M+ ACCION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48401
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="|ES| M+ COMEDIA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="ES - CINE",|ES| M+ COMEDIA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48404
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="|ES| M+ COMEDIA" tvg-logo="http://logo.solanaflix.com/images/logos/a63b54980dfa8fbba4a7e596afb5e798.png" group-title="ES - CINE",|ES| M+ COMEDIA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48403
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="|ES| M+ DRAMA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/6a82846d38b09664c8fb65fed62d8d19.png" group-title="ES - CINE",|ES| M+ DRAMA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48406
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="|ES| M+ DRAMA" tvg-logo="http://logo.solanaflix.com/images/logos/12311ddb62355dff2654656fc1815614.png" group-title="ES - CINE",|ES| M+ DRAMA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48405
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="|ES|  M+ CINE ESPANOL FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE",|ES|  M+ CINE ESPANOL FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109482
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="|ES| M+ CINE ESPANOL" tvg-logo="http://logo.solanaflix.com/images/logos/a107aa2c3a55817e0ac524f4077f7806.png" group-title="ES - CINE",|ES| M+ CINE ESPANOL
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48407
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="|ES| M+ CLASICO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE",|ES| M+ CLASICO FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109248
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="|ES| M+ CLASICOS" tvg-logo="http://logo.solanaflix.com/images/logos/5xOfsnUlYg7PSXV53gcjPnX4XgbWVCT-Ek_NbAHR3PE.png" group-title="ES - CINE",|ES| M+ CLASICOS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109249
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="|ES| M+ SERIES FHD" tvg-logo="http://logo.solanaflix.com/images/logos/8f56109b1e5ddcac71837c62f6e5515e.png" group-title="ES - CINE",|ES| M+ SERIES FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48428
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="|ES| M+ SERIES" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi2wv5Viw52b0x8Vgq8Ba3RVvjrmeESotWXAAyOY0yDbzs8JqpXcUthsEpzffvNG24.png" group-title="ES - CINE",|ES| M+ SERIES
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48427
+#EXTINF:-1 tvg-id="M+ Suspense HD" tvg-name="|ES| M+ SUSPENSE" tvg-logo="http://logo.solanaflix.com/images/logos/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="ES - CINE",|ES| M+ SUSPENSE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48429
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="|ES| M+ INDIE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MINDI.png" group-title="ES - CINE",|ES| M+ INDIE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/114290
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ MUSICA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJpJ8WUPqbphdhWs9EVkdL2bERPpRq-HqmUqWCbn3RL2OJ1TO4-ZsK8JK-C3-aimCTOHcqWL6vyum63bCvPN-ALaYs5FpkaGGzfg6pBC5od0TOjRh7jdxRBXpG1B3X1seIyJzdwskb2eSCWdJZ_WYkdw.png" group-title="ES - MUSICA",|ES| M+ MUSICA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/102338
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ MUSICA" tvg-logo="http://jumeke.teamcdn.in:80/images/5c398a547f1493c6fc2b7050f1c791f7.png" group-title="ES - MUSICA",|ES| M+ MUSICA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/102339
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="|ES| M+ ELLAS VAMOS FHD" tvg-logo="" group-title="ES - DEPORTES",|ES| M+ ELLAS VAMOS FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109433
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="|ES| M+ ELLAS VAMOS" tvg-logo="" group-title="ES - DEPORTES",|ES| M+ ELLAS VAMOS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109434
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="|ES| M+ TERROR FHD" tvg-logo="http://logo.solanaflix.com/images/logos/fleiimS3iiYPyKLmseNN5mGjZYH6oC7xSLw_RWVrLRSI4YAWGFkRBUYP9pz4InFvNPxXdKSk8giUObQF7rnZSIP_xWI8B_mayCsDbpBoi6I.jpg" group-title="ES - CINE",|ES| M+ TERROR FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/149908
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="|ES| M+ TERROR" tvg-logo="http://logo.solanaflix.com/images/logos/fleiimS3iiYPyKLmseNN5mGjZYH6oC7xSLw_RWVrLRSI4YAWGFkRBUYP9pz4InFvNPxXdKSk8giUObQF7rnZSIP_xWI8B_mayCsDbpBoi6I.jpg" group-title="ES - CINE",|ES| M+ TERROR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/149909
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="|ES| M+ DOCUMENTALES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ES - CULTURA",|ES| M+ DOCUMENTALES FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/114289
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="|ES| M+ SHOWTIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ES - CINE",|ES| M+ SHOWTIME FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438083
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://logo.solanaflix.com/images/logos/5ed7fed512a482bd3a8d048699453af7.png" group-title="ES - NINOS",|ES| DreamWorks FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/64410
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://logo.solanaflix.com/images/logos/08f97a2cf9e4533df2046db62aa85fee.png" group-title="ES - CINE",|ES| HOLLYWOOD FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48411
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="|ES| HOLLYWOOD" tvg-logo="http://logo.solanaflix.com/images/logos/09a27e8761f96269efec9453d18dc660.png" group-title="ES - CINE",|ES| HOLLYWOOD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48410
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="|ES| TCM FHD" tvg-logo="http://logo.solanaflix.com/images/logos/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="ES - CINE",|ES| TCM FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48413
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="|ES| TCM" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiVhzRvMEb1u6LNyOW093I4fqqtX7s8FR4dcRcOOqcESw.png" group-title="ES - CINE",|ES| TCM
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48412
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="|ES| SUNDANCE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/014dec09d30ae7a62daf5875bf2bcd62.png" group-title="ES - CINE",|ES| SUNDANCE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48415
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="|ES| SUNDANCE" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UzGnwLrFb-gpSRFgvvrmXqfIC5XwANlQArNJKY3as0AkLHsBb1zRoMlnir7D-AsAU.png" group-title="ES - CINE",|ES| SUNDANCE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48414
+#EXTINF:-1 tvg-id="XTRM" tvg-name="|ES| XTRM FHD" tvg-logo="http://logo.solanaflix.com/images/logos/760584d13f0c6712c5b7df4dc65c075e.png" group-title="ES - CINE",|ES| XTRM FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48418
+#EXTINF:-1 tvg-id="DARK" tvg-name="|ES| DARK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="ES - CINE",|ES| DARK FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/62202
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DARK HD" tvg-logo="s:1:/images/vUC_atj3fl5_ioKjGY18VJnkFyZUXAIlxqo9cTAZrbjC93j2X3kmDZm6d-0rdONyJV5RmpM2IDnf8Zj6u8JVXqUh72T6JkqGw4p7ZYGyt4I.png" group-title="ES - CINE",|ES| DARK HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438665
+#EXTINF:-1 tvg-id="DARK" tvg-name="|ES| Dark SD" tvg-logo="http://gatatv.site:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvTgGfo5pfP7skbkphrP-Gws8wV2oM7cBzTuTq7hyp8GA.png" group-title="ES - CINE",|ES| Dark SD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438702
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="ES - CINE",|ES| CALLE 13 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48432
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="|ES| CALLE 13" tvg-logo="http://logo.solanaflix.com/images/logos/bec671b8f24c482c48416977a354c36a.png" group-title="ES - CINE",|ES| CALLE 13
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48431
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="|ES| FOX FHD" tvg-logo="http://logo.solanaflix.com/images/logos/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ES - CINE",|ES| FOX FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48434
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="|ES| FOX" tvg-logo="http://logo.solanaflix.com/images/logos/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ES - CINE",|ES| FOX
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48433
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="|ES| AXN FHD" tvg-logo="http://logo.solanaflix.com/images/logos/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="ES - CINE",|ES| AXN FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48438
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="|ES| AXN" tvg-logo="http://logo.solanaflix.com/images/logos/c7bcbc671d54de0d717eb1663e1eea11.png" group-title="ES - CINE",|ES| AXN
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48437
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="|ES| AXN MOVIES FHD" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="ES - CINE",|ES| AXN MOVIES FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48440
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="|ES| AXN MOVIES" tvg-logo="http://logo.solanaflix.com/images/logos/0db1f8e3bae410631575704b703f45f0.png" group-title="ES - CINE",|ES| AXN MOVIES
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48439
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="|ES| AMC FHD" tvg-logo="http://logo.solanaflix.com/images/logos/eba62e97568a6ee0c5a95ffba7b124c1.png" group-title="ES - CINE",|ES| AMC FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48442
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="|ES| AMC" tvg-logo="http://logo.solanaflix.com/images/logos/68271f533c2ea1941772cdb2982b152d.png" group-title="ES - CINE",|ES| AMC
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48441
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="|ES| AMC SELEKT FHD" tvg-logo="http://logo.solanaflix.com/images/logos/zDtAp_LLXHPRtEtzC_QvIcMe4Oh_LnhBAPkAlE_A38RaoohN4WbfdTlRt3xEJTUlSdNVDLsiHzAK4-kE_RX16s_Pw_YIDl2sV0wxbIb0NsD9LqTjV2XpFoY6fEpv64Wq.jpg" group-title="ES - CINE",|ES| AMC SELEKT FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/150608
+#EXTINF:-1 tvg-id="BLAZESH" tvg-name="|ES| AMC BREAK FHD" tvg-logo="http://logo.solanaflix.com/images/logos/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ES - ESTILO DE VIDA",|ES| AMC BREAK FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48489
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="|ES| AMC CRIME FHD" tvg-logo="https://nxapp.cf/logos/2021/amccrime.png" group-title="ES - ESTILO DE VIDA",|ES| AMC CRIME FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113023
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="|ES| AMC CRIME SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO4KHWbOGjF5pB0e4wr3F31zbPvPOCqwYypT1dcHrKg1uG_SdzWFwsOgtg_KhqFVTzA&usqp=CAU" group-title="ES - ESTILO DE VIDA",|ES| AMC CRIME SD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113022
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="|ES| Amc Break HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="ES - ESTILO DE VIDA",|ES| Amc Break HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113017
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="|ES| AMC BREAK" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_amarillo_transparente.png?fit=440%2C264&ssl=1" group-title="ES - ESTILO DE VIDA",|ES| AMC BREAK
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113018
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="|ES| WARNER TV FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="ES - CINE",|ES| WARNER TV FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48444
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="|ES| WARNER TV" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UxnPzJf-FhFYS2LNs5gdhJkI6I_8vL_nPn6Yqnu6XNv_Drzt_pQJlz0AsBXjK__AnfFI4p-SxlZVYmHoTfr07yn_wUsWT-u49HpevRwfh9zA.png" group-title="ES - CINE",|ES| WARNER TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48443
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="|ES| SYFY FHD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="ES - CINE",|ES| SYFY FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48446
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="|ES| SYFY" tvg-logo="http://logo.solanaflix.com/images/logos/85470b41c4778a801cfc1c17387e9fd7.png" group-title="ES - CINE",|ES| SYFY
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48445
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3VBDy5-TwcBZ31DVvc6NBMxekiJxesDLJDDNQeDXRyDulrlSzMoClGOQKPXIVIpsCw.png" group-title="ES - CINE",|ES| COSMOPOLITAN FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48448
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="|ES| COSMO" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="ES - CINE",|ES| COSMO
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48447
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://logo.solanaflix.com/images/logos/368ee045a76d8af7a0efa688e40838ed.png" group-title="ES - CINE",|ES| COMEDY CENTRAL FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48450
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="|ES| COMEDY CENTRAL" tvg-logo="http://logo.solanaflix.com/images/logos/7130d47fe203cc4be9948cb9c5c9a31e.png" group-title="ES - CINE",|ES| COMEDY CENTRAL
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48449
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="|ES| DISNEY JR" tvg-logo="http://logo.solanaflix.com/images/logos/ebd7b1ccb3142ea8542e35b221f1c959.png" group-title="ES - NINOS",|ES| DISNEY JR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48469
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="|ES| DISNEY CHANNEL" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" group-title="ES - NINOS",|ES| DISNEY CHANNEL
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48470
+#EXTINF:-1 tvg-id="Boing" tvg-name="|ES| BOING" tvg-logo="http://logo.solanaflix.com/images/logos/22ba1ddaa71b15f6cb7d89cb5afa6581.png" group-title="ES - NINOS",|ES| BOING
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48473
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL PANDA" tvg-logo="http://logo.solanaflix.com/images/logos/556adef058bd150e440b47f09e9065ca.png" group-title="ES - NINOS",|ES| CANAL PANDA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48474
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="|ES| BABY TV" tvg-logo="http://logo.solanaflix.com/images/logos/69535f49d5fb8179e26d08819a219612.png" group-title="ES - NINOS",|ES| BABY TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48475
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://logo.solanaflix.com/images/logos/429952d925933658248eed71c47ed1bf.png" group-title="ES - NINOS",|ES| NICKELODEON FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48477
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="|ES| NICKELODEON" tvg-logo="http://logo.solanaflix.com/images/logos/49bb0121634b05cf7037811a4078d7b0.png" group-title="ES - NINOS",|ES| NICKELODEON
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48476
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="|ES| NICK JR" tvg-logo="http://logo.solanaflix.com/images/logos/4f03339017aa8caddffc93575f75f6d8.png" group-title="ES - NINOS",|ES| NICK JR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48478
+#EXTINF:-1 tvg-id="DKISS" tvg-name="|ES| DKISS" tvg-logo="http://logo.solanaflix.com/images/logos/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ES - ESTILO DE VIDA",|ES| DKISS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48453
+#EXTINF:-1 tvg-id="CRINV" tvg-name="|ES| CRIMEN MAS+ INVESTIGACION" tvg-logo="http://logo.solanaflix.com/images/logos/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ES - ESTILO DE VIDA",|ES| CRIMEN MAS+ INVESTIGACION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48458
+#EXTINF:-1 tvg-id="Decasa" tvg-name="|ES| DECASA UHD (4K) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSQJ_KeF7LT3A8yL9zybbRe.png" group-title="ES - ESTILO DE VIDA",|ES| DECASA UHD (4K) - En pruebas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113618
+#EXTINF:-1 tvg-id="Decasa" tvg-name="|ES| DECASA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ES - ESTILO DE VIDA",|ES| DECASA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48460
+#EXTINF:-1 tvg-id="Decasa" tvg-name="|ES| DECASA" tvg-logo="http://logo.solanaflix.com/images/logos/424a4384855f790861dfaabfcb49e83e.png" group-title="ES - ESTILO DE VIDA",|ES| DECASA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48459
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="|ES| CANAL COCINA UHD (4K) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNHCljyn_RfF5eC70iu4duryYxA9BnQ5AEVpZdxAuIVfw.png" group-title="ES - ESTILO DE VIDA",|ES| CANAL COCINA UHD (4K) - En pruebas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113616
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="|ES| CANAL COCINA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ES - ESTILO DE VIDA",|ES| CANAL COCINA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48462
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="|ES| CANAL COCINA" tvg-logo="http://logo.solanaflix.com/images/logos/382879a07b1b6aca3b35d29128c90584.png" group-title="ES - ESTILO DE VIDA",|ES| CANAL COCINA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48461
+#EXTINF:-1 tvg-id="Historia" tvg-name="|ES| HISTORIA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="ES - CULTURA",|ES| HISTORIA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48480
+#EXTINF:-1 tvg-id="Historia" tvg-name="|ES| HISTORIA" tvg-logo="http://logo.solanaflix.com/images/logos/1e4e034406cd2444557b1986321d4be4.png" group-title="ES - CULTURA",|ES| HISTORIA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48479
+#EXTINF:-1 tvg-id="Discovery" tvg-name="|ES| DISCOVERY CHANNEL FHD" tvg-logo="http://logo.solanaflix.com/images/logos/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="ES - CULTURA",|ES| DISCOVERY CHANNEL FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48481
+#EXTINF:-1 tvg-id="ODISEHD" tvg-name="|ES| ODISEA UHD (4K) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNhS1S-0cygRZetBq6Z6_C4.png" group-title="ES - CULTURA",|ES| ODISEA UHD (4K) - En pruebas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113617
+#EXTINF:-1 tvg-id="Odisea" tvg-name="|ES| ODISEA FHD" tvg-logo="http://jumeke.teamcdn.in:80/images/804400d12460e6c8b90e57decc160801.png" group-title="ES - CULTURA",|ES| ODISEA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110575
+#EXTINF:-1 tvg-id="ODISEHD" tvg-name="|ES| ODISEA" tvg-logo="http://logo.solanaflix.com/images/logos/52b70868846523bdd40fbee724601f08.png" group-title="ES - CULTURA",|ES| ODISEA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48482
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://logo.solanaflix.com/images/logos/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48484
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://logo.solanaflix.com/images/logos/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAPHIC
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48483
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48486
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="http://logo.solanaflix.com/images/logos/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="ES - CULTURA",|ES| NATIONAL GEOGRAFIC WILD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48485
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="|ES| CAZA Y PESCA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="ES - CULTURA",|ES| CAZA Y PESCA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48494
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="|ES| CAZA Y PESCA" tvg-logo="http://logo.solanaflix.com/images/logos/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="ES - CULTURA",|ES| CAZA Y PESCA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48493
+#EXTINF:-1 tvg-id="MTVL" tvg-name="|ES| MTV" tvg-logo="http://logo.solanaflix.com/images/logos/f04f2d52a88f8379dc684df154e30864.png" group-title="ES - MUSICA",|ES| MTV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48451
+#EXTINF:-1 tvg-id="SOLMUSC" tvg-name="|ES| SOL MUSIC" tvg-logo="http://logo.solanaflix.com/images/logos/32ba9efd8be218780c70c4127b2e67b4.png" group-title="ES - MUSICA",|ES| SOL MUSIC
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48555
+#EXTINF:-1 tvg-id="MEZLVSD" tvg-name="|ES| MEZZO LIVE FHD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UuPwSjYX8AtsActJs9GcUv4JTiadKANvjlrwXq0w122PU8Zc7y7z4kBY9xgmaDF4Y.png" group-title="ES - MUSICA",|ES| MEZZO LIVE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48557
+#EXTINF:-1 tvg-id="MEZLVSD" tvg-name="|ES| MEZZO LIVE" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3UuPwSjYX8AtsActJs9GcUv4JTiadKANvjlrwXq0w122PU8Zc7y7z4kBY9xgmaDF4Y.png" group-title="ES - MUSICA",|ES| MEZZO LIVE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48556
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MY ZEN UHD (4K) (Multi-Audio) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRAYPDF99_ROR3RJpBh31TCiwQFxlfLxjoOLrqxH6S-qw.png" group-title="ES - ESTILO DE VIDA",|ES| MY ZEN UHD (4K) (Multi-Audio) - En pruebas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113619
+#EXTINF:-1 tvg-id="VH1CLAS" tvg-name="|ES| VH1 CLASSIC" tvg-logo="http://logo.solanaflix.com/images/logos/e3ced67396ae2583abc36943d80489ba.png" group-title="ES - MUSICA",|ES| VH1 CLASSIC
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48702
+#EXTINF:-1 tvg-id="LA1HD" tvg-name="|ES| LA 1 UHD (4K) - En pruebas" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 UHD (4K) - En pruebas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113615
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="|ES| LA 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48384
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="|ES| LA 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48383
+#EXTINF:-1 tvg-id="La 2" tvg-name="|ES| LA 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="ES - TDT",|ES| LA 2 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48386
+#EXTINF:-1 tvg-id="La 2" tvg-name="|ES| LA 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="ES - TDT",|ES| LA 2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48385
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="ES - TDT",|ES| ANTENA 3 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48388
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|ES| ANTENA 3" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="ES - TDT",|ES| ANTENA 3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48387
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="|ES| CUATRO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="ES - TDT",|ES| CUATRO FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48390
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="|ES| CUATRO" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="ES - TDT",|ES| CUATRO
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48389
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e84bf793645c7a574099fe935f3b6c53.png" group-title="ES - TDT",|ES| TELECINCO FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48392
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|ES| TELECINCO" tvg-logo="http://logo.solanaflix.com/images/logos/07d25eb3c41b277d417b0614e8bda9ad.png" group-title="ES - TDT",|ES| TELECINCO
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48391
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="ES - TDT",|ES| LA SEXTA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48394
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|ES| LA SEXTA" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="ES - TDT",|ES| LA SEXTA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48393
+#EXTINF:-1 tvg-id="Somos" tvg-name="|ES| SOMOS FHD" tvg-logo="http://logo.solanaflix.com/images/logos/754c93154a5ac9bc754b8d57b6a2fd5d.png" group-title="ES - TDT",|ES| SOMOS FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48419
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="|ES| PARAMOUNT CHANNEL" tvg-logo="http://logo.solanaflix.com/images/logos/12a171a4c616f398c636128fefe9f620.png" group-title="ES - TDT",|ES| PARAMOUNT CHANNEL
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48420
+#EXTINF:-1 tvg-id="Mega" tvg-name="|ES| MEGA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ES - TDT",|ES| MEGA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48426
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="|ES| 24 HORAS" tvg-logo="https://noos.vip/logo/ES/24horas.png" group-title="ES - TDT",|ES| 24 HORAS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48395
+#EXTINF:-1 tvg-id="FDF" tvg-name="|ES| FDF" tvg-logo="http://logo.solanaflix.com/images/logos/302e246e62857a73580e4541a042c098.png" group-title="ES - TDT",|ES| FDF
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48452
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="|ES| A3SERIES" tvg-logo="http://logo.solanaflix.com/images/logos/75966d8f0b754bc4917ae3bd83d37d87.png" group-title="ES - TDT",|ES| A3SERIES
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48454
+#EXTINF:-1 tvg-id="Mega" tvg-name="|ES| MEGA" tvg-logo="http://logo.solanaflix.com/images/logos/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ES - TDT",|ES| MEGA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48455
+#EXTINF:-1 tvg-id="Energy" tvg-name="|ES| ENERGY" tvg-logo="http://logo.solanaflix.com/images/logos/5efdde3d783f2d201d06e0a949eb1fd4.png" group-title="ES - TDT",|ES| ENERGY
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48456
+#EXTINF:-1 tvg-id="Divinity" tvg-name="|ES| DIVINITY" tvg-logo="http://logo.solanaflix.com/images/logos/0d9e9bafc45fa91e81a9a89baa0e82bf.png" group-title="ES - TDT",|ES| DIVINITY
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48457
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="|ES| BEMAD FHD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="ES - TDT",|ES| BEMAD FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48464
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="|ES| BE MAD" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="ES - TDT",|ES| BE MAD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48463
+#EXTINF:-1 tvg-id="Neox" tvg-name="|ES| NEOX" tvg-logo="http://logo.solanaflix.com/images/logos/4337120eec924b379bacf60654411200.png" group-title="ES - TDT",|ES| NEOX
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48465
+#EXTINF:-1 tvg-id="Nova" tvg-name="|ES| NOVA" tvg-logo="http://logo.solanaflix.com/images/logos/5c2e1cebc605ff56e6283f2e21d26a3e.png" group-title="ES - TDT",|ES| NOVA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48466
+#EXTINF:-1 tvg-id="Clan" tvg-name="|ES| CLAN FHD" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/clantv.png" group-title="ES - TDT",|ES| CLAN FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48472
+#EXTINF:-1 tvg-id="Clan" tvg-name="|ES| CLAN" tvg-logo="http://logo.solanaflix.com/images/logos/3c06f96b6f7bbdb97366dff76a00eca4.png" group-title="ES - TDT",|ES| CLAN
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48471
+#EXTINF:-1 tvg-id="DMAX" tvg-name="|ES| DMAX" tvg-logo="http://logo.solanaflix.com/images/logos/26bfaabc8ab71544f153e910bcec2a31.png" group-title="ES - TDT",|ES| DMAX
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48487
+#EXTINF:-1 tvg-id="Ten" tvg-name="|ES| TEN" tvg-logo="http://gatatv.site:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypdmc1iSrBzRovW8K3EJnr70XqMjuze8G4KKfN1IbveQQ.png" group-title="ES - TDT",|ES| TEN
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48488
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="|ES| IBERALIA" tvg-logo="http://logo.solanaflix.com/images/logos/735ce065417968c0f63988ae76db2106.png" group-title="ES - TDT",|ES| IBERALIA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48495
+#EXTINF:-1 tvg-id="TRECE" tvg-name="|ES| TRECE" tvg-logo="http://fanc.tmsimg.com/assets/s87050_ll_h3_ab.png" group-title="ES - TDT",|ES| TRECE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48550
+#EXTINF:-1 tvg-id="TV3 Cat." tvg-name="|ES| TV3 CAT" tvg-logo="http://logo.solanaflix.com/images/logos/57b7c483603f8cd6c360455d05226b88.png" group-title="ES - TDT",|ES| TV3 CAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/77777
+#EXTINF:-1 tvg-id="324 CAT" tvg-name="|ES| 3/24 CAT" tvg-logo="http://logo.solanaflix.com/images/logos/e393067b49099d817c4dfcf39ea3ad0a.png" group-title="ES - TDT",|ES| 3/24 CAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/77778
+#EXTINF:-1 tvg-id="HIT TV" tvg-name="|ES| HIT TV" tvg-logo="http://logo.solanaflix.com/images/logos/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiAVIixKjkMbskEaEJYysiVOmT4JbhjpXoXk9fsVKWhlg.png" group-title="ES - TDT",|ES| HIT TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48551
+#EXTINF:-1 tvg-id="ARAGON" tvg-name="|ES| ARAGON TV" tvg-logo="http://logo.solanaflix.com/images/logos/6367652eadbbfac29fef37282e00a07b.png" group-title="ES - TDT",|ES| ARAGON TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48554
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="|ES| 7RM" tvg-logo="" group-title="ES - TDT",|ES| 7RM
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48614
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="|ES| CANAL SUR" tvg-logo="http://iptv.magikserv.com/picons/ES/canalsurandalucia.png" group-title="ES - TDT",|ES| CANAL SUR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48615
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="|ES| CANAL SUR" tvg-logo="http://jumeke.teamcdn.in:80/images/1de4d73c3124adb6b6c9c842151c6989.png" group-title="ES - TDT",|ES| CANAL SUR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48616
+#EXTINF:-1 tvg-id="Castilla la Mancha TV" tvg-name="|ES| CMM FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e57a74d4872ad4c5a01ebe50e5378277.png" group-title="ES - TDT",|ES| CMM FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48617
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="|ES|EXTREMADURA TV" tvg-logo="https://noos.vip/logo/ES/extremadura.png" group-title="ES - TDT",|ES|EXTREMADURA TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48619
+#EXTINF:-1 tvg-id="La Otra" tvg-name="|ES| LA OTRA" tvg-logo="http://logo.solanaflix.com/images/logos/d82ffb81a007d680aa9d16fc0dfcb0f3.png" group-title="ES - TDT",|ES| LA OTRA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48620
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="|ES| TELEMADRID FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e49102d639b0535f53940fedd2e9ecd3.png" group-title="ES - TDT",|ES| TELEMADRID FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48622
+#EXTINF:-1 tvg-id="Classica HD" tvg-name="|ES| CLASSICA" tvg-logo="http://logo.solanaflix.com/images/logos/71a8b554262aa45df4e2de41ac0526e5.png" group-title="ES - TDT",|ES| CLASSICA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48638
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="|ES| CANAL SUR ANDALUCÍA" tvg-logo="https://noos.vip/logo/ES/canalsura.png" group-title="ES - TDT",|ES| CANAL SUR ANDALUCÍA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48666
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="|ES| TELEMADRID" tvg-logo="http://logo.solanaflix.com/images/logos/e49102d639b0535f53940fedd2e9ecd3.png" group-title="ES - TDT",|ES| TELEMADRID
+http://79306.tvdev.club:8080/TV-49703898/468045796506/48674
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="|ES| LA RESISTENCIA" tvg-logo="http://logo.solanaflix.com/images/logos/8EgqKQHIqbInSgHZudFQ2B_scL-BQxETdNY0ZcbUlsmNNgOTslazRtNJUF0Xl18p0cm-_yHSEpRHeomg9LGCGw.png" group-title="ES - CINE",|ES| LA RESISTENCIA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109245
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="|ES| BOM CINE" tvg-logo="https://www.grupogodo.com/wp-content/uploads/2016/12/bom-CINE-web.png" group-title="ES - CINE",|ES| BOM CINE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109247
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="|ES| CAZAVISION" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMpPgjitgmT16d0a9wn-SSyT-REjfH_gnj7cXqX3KpXwA.png" group-title="ES - CULTURA",|ES| CAZAVISION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/109250
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="|ES| Galicia TV HD" tvg-logo="" group-title="ES - TDT",|ES| Galicia TV HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110576
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="|ES| Galicia TV 2 HD" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES - TDT",|ES| Galicia TV 2 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110577
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Infantil HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Infantil HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110578
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Musigal HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Musigal HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110579
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Cultura HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Cultura HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110580
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Momentos G HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Momentos G HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110581
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TVG América HD" tvg-logo="" group-title="ES - TDT",|ES| TVG América HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/110582
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="|ES| RAKUTEN TV TOP 1 FHD" tvg-logo="" group-title="ES - CINE",|ES| RAKUTEN TV TOP 1 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113009
+#EXTINF:-1 tvg-id="" tvg-name="|ES| RAKUTEN TV TOP 2 FHD" tvg-logo="" group-title="ES - CINE",|ES| RAKUTEN TV TOP 2 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113010
+#EXTINF:-1 tvg-id="" tvg-name="|ES| RAKUTEN TV TOP 3 FHD" tvg-logo="" group-title="ES - CINE",|ES| RAKUTEN TV TOP 3 FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113008
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Rakuten Tv Family FHD" tvg-logo="" group-title="ES - CINE",|ES| Rakuten Tv Family FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113011
+#EXTINF:-1 tvg-id="Vive Kanal D Drama" tvg-name="|ES| KANAL D DRAMA" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR4bpqT-bBzKXHIiB4bkXEJv2uPkCjX8u4EYNiWwwIwlw.png" group-title="ES - CINE",|ES| KANAL D DRAMA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113014
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="|ES| EnFamilia FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/PANDA.png" group-title="ES - NINOS",|ES| EnFamilia FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113016
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="|ES| EnFamilia" tvg-logo="" group-title="ES - NINOS",|ES| EnFamilia
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113015
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="|ES| Iberalia Original HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPijNfZipA57xGm8OLPTOzz.png" group-title="ES - ESTILO DE VIDA",|ES| Iberalia Original HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113019
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="|ES| IBERALIA 100% CAZA HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="ES - ESTILO DE VIDA",|ES| IBERALIA 100% CAZA HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113020
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="|ES| IBERALIA 100% PESCA HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5fc201&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliapesca.png" group-title="ES - ESTILO DE VIDA",|ES| IBERALIA 100% PESCA HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113021
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="|ES| BUEN VIAJE" tvg-logo="" group-title="ES - ESTILO DE VIDA",|ES| BUEN VIAJE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113024
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Dviaje FHD" tvg-logo="" group-title="ES - ESTILO DE VIDA",|ES| Dviaje FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113025
+#EXTINF:-1 tvg-id="Escapa TV" tvg-name="|ES| ESCAPA TV FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ES - ESTILO DE VIDA",|ES| ESCAPA TV FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113026
+#EXTINF:-1 tvg-id="Surf Channel" tvg-name="|ES| Surf Channel HD" tvg-logo="" group-title="ES - DEPORTES",|ES| Surf Channel HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113027
+#EXTINF:-1 tvg-id="Runtime Cine y Series" tvg-name="|ES| Run Time Cine y Series" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Cine y Series
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113063
+#EXTINF:-1 tvg-id="Runtime Acción" tvg-name="|ES| Run Time Acción" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Acción
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113064
+#EXTINF:-1 tvg-id="Runtime Comedia" tvg-name="|ES| Run Time Comedia" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Comedia
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113065
+#EXTINF:-1 tvg-id="Runtime Thriller-Terror" tvg-name="|ES| Run Time Thriller y Terror" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Thriller y Terror
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113066
+#EXTINF:-1 tvg-id="Runtime Crimen" tvg-name="|ES| Run Time Crimen" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Crimen
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113067
+#EXTINF:-1 tvg-id="Runtime Romance" tvg-name="|ES| Run Time Romance" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Romance
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113068
+#EXTINF:-1 tvg-id="RunTime Clásico" tvg-name="|ES| Run Time Clasicos" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Clasicos
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113069
+#EXTINF:-1 tvg-id="Runtime Series" tvg-name="|ES| Run Time Series" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Series
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113070
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Run Time Ana y los 7" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Ana y los 7
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113071
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Run Time Curro Jiménez" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| Run Time Curro Jiménez
+http://79306.tvdev.club:8080/TV-49703898/468045796506/113072
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1TV LIVE AUDIO ESP" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1TV LIVE AUDIO ESP
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111177
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1TV LIVE AUDIO AMBIENTE FX" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1TV LIVE AUDIO AMBIENTE FX
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111178
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1TV LIVE AUDIO ENG" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1TV LIVE AUDIO ENG
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111179
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1TV LIVE AUDIO FR" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1TV LIVE AUDIO FR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111180
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1TV LIVE AUDIO DE" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1TV LIVE AUDIO DE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111181
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | TRACKER" tvg-logo="" group-title="ES - FORMULA 1",F1TV | TRACKER
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111182
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | DATA" tvg-logo="" group-title="ES - FORMULA 1",F1TV | DATA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111183
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Oscar Piastri" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Oscar Piastri
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111184
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Max Verstappen" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Max Verstappen
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111185
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Logan Sargeant" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Logan Sargeant
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111186
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Lando Norris" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Lando Norris
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111187
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Pierre Gasly" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Pierre Gasly
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111188
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Sergio Pérez" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Sergio Pérez
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111189
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Fernando Alonso" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Fernando Alonso
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111190
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Charles Leclerc" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Charles Leclerc
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111191
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Lance Stroll" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Lance Stroll
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111192
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Kevin Magnussen" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Kevin Magnussen
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111193
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Nyck de Vries" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Nyck de Vries
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111194
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Yuki Tsunoda" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Yuki Tsunoda
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111195
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Alexander Albon" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Alexander Albon
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111196
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Guanyu Zhou" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Guanyu Zhou
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111197
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Nico Hulkenberg" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Nico Hulkenberg
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111198
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Esteban Ocon" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Esteban Ocon
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111199
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Lewis Hamilton" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Lewis Hamilton
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111200
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Carlos Sainz Jr." tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Carlos Sainz Jr.
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111201
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD George Russell" tvg-logo="" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD George Russell
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111202
+#EXTINF:-1 tvg-id="" tvg-name="F1TV | F1 ONBOARD Valtteri Bottas" tvg-logo="s:1:/images/24a7e9ec5f9db00ac0c6c36b28821c7f.jpg" group-title="ES - FORMULA 1",F1TV | F1 ONBOARD Valtteri Bottas
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111203
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 1 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111219
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 2 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111220
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 3 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111221
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 4 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111222
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 5 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111223
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 6 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111224
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 7 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111225
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 8 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111226
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 9 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111227
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 10 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111228
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 11 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111229
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 12 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111230
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 13 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111231
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 14 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111232
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 15 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111233
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 16 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 16 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111234
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 17 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 17 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111235
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 18 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 18 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111236
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 19 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 19 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111237
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 20 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 20 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111238
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 21 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 21 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111239
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 22 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 22 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111240
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 23 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 23 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111241
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 24 FHD (Solo Eventos)" tvg-logo="" group-title="ES - FEF TV",FEF TV 24 FHD (Solo Eventos)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/111242
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS ( FEMENINO ) 1 HD" tvg-logo="http://trastras.eu:2083/images/DAZNF.png" group-title="ES - DEPORTES",DAZN EVENTOS ( FEMENINO ) 1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/112552
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS ( FEMENINO ) 2 HD" tvg-logo="http://trastras.eu:2083/images/DAZNF.png" group-title="ES - DEPORTES",DAZN EVENTOS ( FEMENINO ) 2 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/112553
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS ( FEMENINO ) 3 HD" tvg-logo="http://trastras.eu:2083/images/DAZNF.png" group-title="ES - DEPORTES",DAZN EVENTOS ( FEMENINO ) 3 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/112554
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS ( FEMENINO ) 4 HD" tvg-logo="http://trastras.eu:2083/images/DAZNF.png" group-title="ES - DEPORTES",DAZN EVENTOS ( FEMENINO ) 4 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/112555
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS ( FEMENINO ) 5 HD" tvg-logo="http://trastras.eu:2083/images/DAZNF.png" group-title="ES - DEPORTES",DAZN EVENTOS ( FEMENINO ) 5 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/112556
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 1 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 1 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117839
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 2 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 2 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117840
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 3 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 3 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117841
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 4 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 4 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117842
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 5 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 5 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117843
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 6 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 6 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117844
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 7 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 7 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117845
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 8 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 8 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117846
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 9 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 9 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117847
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 10 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 10 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117848
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 11 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 11 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117849
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 12 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 12 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117850
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 13 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 13 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117851
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 14 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 14 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117852
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub 15 FHD ( SOLO EVENTOS )" tvg-logo="" group-title="ES - SEGUNDA FEDERACION",FootballClub 15 FHD ( SOLO EVENTOS )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/117853
+#EXTINF:-1 tvg-id="Nova" tvg-name="|ES| Nova FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRUrtOyb9itpP4AThCSdKi5K1d1Y8PrJ8HUQ10GLW40tA.png" group-title="ES - TDT",|ES| Nova FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/139269
+#EXTINF:-1 tvg-id="" tvg-name="1 TAQUILLA ACCION" tvg-logo="" group-title="ES - TAQUILLAS",1 TAQUILLA ACCION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140069
+#EXTINF:-1 tvg-id="" tvg-name="2 TAQUILLA ANIMACION" tvg-logo="" group-title="ES - TAQUILLAS",2 TAQUILLA ANIMACION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140070
+#EXTINF:-1 tvg-id="" tvg-name="3 TAQUILLA CIENCIA FICCION" tvg-logo="" group-title="ES - TAQUILLAS",3 TAQUILLA CIENCIA FICCION
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140071
+#EXTINF:-1 tvg-id="" tvg-name="4 TAQUILLA CRIMEN" tvg-logo="" group-title="ES - TAQUILLAS",4 TAQUILLA CRIMEN
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140072
+#EXTINF:-1 tvg-id="" tvg-name="5 TAQUILLA TERROR" tvg-logo="" group-title="ES - TAQUILLAS",5 TAQUILLA TERROR
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140073
+#EXTINF:-1 tvg-id="" tvg-name="6 TAQUILLA DRAMA" tvg-logo="" group-title="ES - TAQUILLAS",6 TAQUILLA DRAMA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140074
+#EXTINF:-1 tvg-id="" tvg-name="7 TAQUILLA COMEDIA" tvg-logo="https://www.infobae.com/new-resizer/VrSuBapoG0idjuO-H83Os0yytJQ=/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/3LLYIOMBSBGANBTJWLQRYAZWMY.jpg" group-title="ES - TAQUILLAS",7 TAQUILLA COMEDIA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140075
+#EXTINF:-1 tvg-id="" tvg-name="8 TAQUILLA ROMANCE" tvg-logo="" group-title="ES - TAQUILLAS",8 TAQUILLA ROMANCE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140076
+#EXTINF:-1 tvg-id="" tvg-name="9 TAQUILLA ESTRENOS" tvg-logo="" group-title="ES - TAQUILLAS",9 TAQUILLA ESTRENOS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140077
+#EXTINF:-1 tvg-id="" tvg-name="10 TAQUILLA BELICA" tvg-logo="" group-title="ES - TAQUILLAS",10 TAQUILLA BELICA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140078
+#EXTINF:-1 tvg-id="" tvg-name="11 TAQUILLA AVENTURA" tvg-logo="" group-title="ES - TAQUILLAS",11 TAQUILLA AVENTURA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140079
+#EXTINF:-1 tvg-id="" tvg-name="12 TAQUILLA STAR WARS" tvg-logo="" group-title="ES - TAQUILLAS",12 TAQUILLA STAR WARS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140080
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA SAW" tvg-logo="" group-title="ES - TAQUILLAS",TAQUILLA SAW
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140081
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay info ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay info ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140192
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga HighLights ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga HighLights ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140193
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 1 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 1 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140194
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 2 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 2 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140195
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 3 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 3 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140196
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 4 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 4 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140197
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 5 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 5 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140198
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 6 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 6 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140199
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 7 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 7 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140200
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 8 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 8 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140201
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 9 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 9 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140202
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay 10 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay 10 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140203
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay English 1 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay English 1 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140204
+#EXTINF:-1 tvg-id="" tvg-name="◈ LaLiga Replay English 2 ᴴᴰ" tvg-logo="http://logo.solanaflix.com/images/logos/XJYwDF0JtwSbiSverR_jtwCcFzf_K2Dee-4DKvfN7Dw.png" group-title="ES - REPECTICION DE FUTBOL",◈ LaLiga Replay English 2 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/140205
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE FEEL GOOD HD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=57421c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcinefeelgood.png" group-title="ES - CINE",|ES| CINE FEEL GOOD HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/162088
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINES VERDI TV HD" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="ES - CINE",|ES| CINES VERDI TV HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/162093
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE CLASICO FHD" tvg-logo="" group-title="ES - CINE",|ES| CINE CLASICO FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/162097
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL LAS ESTRELLAS" tvg-logo="" group-title="ES - CINE",|ES| CANAL LAS ESTRELLAS
+http://79306.tvdev.club:8080/TV-49703898/468045796506/162122
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CORAZON" tvg-logo="" group-title="ES - CINE",|ES| CORAZON
+http://79306.tvdev.club:8080/TV-49703898/468045796506/162149
+#EXTINF:-1 tvg-id="Moto ADV" tvg-name="|ES| MOTO ADV FHD" tvg-logo="https://scontent.fcmn3-2.fna.fbcdn.net/v/t39.30808-1/300473172_2116970035131528_3671140579611952732_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=mSKl8sr51sgAX91ObAB&_nc_oc=AQlb_Lucr1IOD5inbfcciBhJ-nddzDIQ5GVPWnxbNNBhXlaxduKPHDRhiDBMS5ABpzU&_nc_ht=scontent.fcmn3-2.fna&oh=00_AfB-2uZQXg1Q30XMaB_-ebBP0pRWkHrK7DNVh6ZUpRUmKA&oe=643DA451" group-title="ES - DEPORTES",|ES| MOTO ADV FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164067
+#EXTINF:-1 tvg-id="Surf Channel" tvg-name="|ES| SURF CHANNEL FHD" tvg-logo="s:1:/images/zkQjc3aC_XVuRdN6_oFAwbaRZt493jElKcBjmmFHWMQz5azTxVz4MX3J0RBdKLjoBMB4Sz4fGYMC9gp0RF16gA.jpg" group-title="ES - DEPORTES",|ES| SURF CHANNEL FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164087
+#EXTINF:-1 tvg-id="DBike" tvg-name="|ES| DBIKE FHD" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" group-title="ES - DEPORTES",|ES| DBIKE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164110
+#EXTINF:-1 tvg-id="MyPadel TV" tvg-name="|ES| MYPADEL FHD" tvg-logo="" group-title="ES - DEPORTES",|ES| MYPADEL FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164131
+#EXTINF:-1 tvg-id="Love The Planet" tvg-name="|ES| LOVE THE PLANET FHD" tvg-logo="https://noos.vip/logo/FR/lovetheplanet.png" group-title="ES - ESTILO DE VIDA",|ES| LOVE THE PLANET FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164821
+#EXTINF:-1 tvg-id="Escapa TV" tvg-name="|ES| ESCAPA TV FHD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/g/h/2/xescapatv.jpg.pagespeed.ic.6t2uVghNjg.jpg" group-title="ES - ESTILO DE VIDA",|ES| ESCAPA TV FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164822
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DUCK TV" tvg-logo="https://noos.vip/images/72b6581acc839b106bc92e8b21d6313a.png" group-title="ES - NINOS",|ES| DUCK TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164823
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-name="|ES| beIN SPORT XTRA FHD" tvg-logo="" group-title="ES - DEPORTES",|ES| beIN SPORT XTRA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164824
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TASTEMADE FHD" tvg-logo="" group-title="ES - ESTILO DE VIDA",|ES| TASTEMADE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164825
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24 H" tvg-logo="http://logo.solanaflix.com/images/logos/EKNwjcrqMnTkwzmBYh_1j-FycFRfEkZGoZ5GCUSbqPdDeL2xZwCHOeBBgBvogP2i.png" group-title="ES - ESTILO DE VIDA",GRAN HERMANO 24 H
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164962
+#EXTINF:-1 tvg-id="acontra+" tvg-name="|ES| ACONTRA+" tvg-logo="s1./images/acontra.png" group-title="ES - CINE",|ES| ACONTRA+
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164965
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO" tvg-logo="http://logo.solanaflix.com/images/logos/WxVmHot7T8vE8JOm2gmluM2e7wlOwkeC6XgHVgZDD1ZmcrVQhqoSc9oLbVA_kgezmyCS8OWMjUol3Y95rCEZBb7z0ADeykcT0gRMQZYA0imW6Fv9nUIxAY4KjX7LnjUsWCDPIIdoFC_d5pmd4QaureTD10h3VbyL36Oj4JyykC4ad-6ZbWw4_5qpEWpUvnuw.png" group-title="ES - DEPORTES",ONETORO
+http://79306.tvdev.club:8080/TV-49703898/468045796506/164966
+#EXTINF:-1 tvg-id="À Punt" tvg-name="|ES| À Punt" tvg-logo="http://logo.solanaflix.com/images/logos/Lnx2HeaL9ukGte3kRKGNshSbH8dCJSt01iSpChMbn05pZIBpSUYbVWFz7_ageC2VT526w2nPlHfXuM1WRJUc_VGphiCktX-09uxOamfkPqQ8uzjZC3NKdBfNjeT_K_Eu.jpg" group-title="ES - TDT",|ES| À Punt
+http://79306.tvdev.club:8080/TV-49703898/468045796506/174842
+#EXTINF:-1 tvg-id="IB3 Global" tvg-name="|ES| IB3 Global" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjMJkcac7VUb4f9fD0k1jYsRL4sbkK4XO6J_3GDOi_QljHeyfBkTcODlNvsh8LgeV7.png" group-title="ES - TDT",|ES| IB3 Global
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366753
+#EXTINF:-1 tvg-id="Canal 33" tvg-name="|ES| Super 3/33" tvg-logo="s:1:/images/Jm6KUn_939-fH-gP9G6x9QRDlGhIFosp-27dXikP9s98Oy68cleJqVhI8-PbMfAnmB7V9ZpM7UN5OrtKLoL55AxtPBFePwUcLqbIoqBHR_-taThN3-vFZcdks4xyCQTRTjw67dXf_IHLbkxWJLoGfQ.jpg" group-title="ES - TDT",|ES| Super 3/33
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366754
+#EXTINF:-1 tvg-id="3 24" tvg-name="|ES| 3/24 SD" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="ES - TDT",|ES| 3/24 SD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366755
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="|ES| ETB 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png" group-title="ES - TDT",|ES| ETB 1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366757
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="|ES| ETB 2 HD" tvg-logo="" group-title="ES - TDT",|ES| ETB 2 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366758
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Teleonuba" tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/teleonuba-640x380.jpg" group-title="ES - TDT",|ES| Teleonuba
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366759
+#EXTINF:-1 tvg-id="TV Canaria" tvg-name="|ES| TV Canaria" tvg-logo="" group-title="ES - TDT",|ES| TV Canaria
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366760
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Sal TV Cadiz" tvg-logo="" group-title="ES - TDT",|ES| Sal TV Cadiz
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366761
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Onda Cadiz Tv FHD" tvg-logo="" group-title="ES - TDT",|ES| Onda Cadiz Tv FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366762
+#EXTINF:-1 tvg-id="Canal Parlamento" tvg-name="|ES| Canal Parlamento SD" tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png" group-title="ES - TDT",|ES| Canal Parlamento SD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366763
+#EXTINF:-1 tvg-id="Bon Dia TV" tvg-name="|ES| BON DIA FHD" tvg-logo="" group-title="ES - TDT",|ES| BON DIA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366764
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Sevilla FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Sevilla FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438664
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Aljarafe FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Aljarafe FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438663
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Malaga FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Malaga FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438662
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Linares FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Linares FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438661
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Jaen FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Jaen FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438660
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Granada FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Granada FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438659
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Cordoba FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Cordoba FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438658
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Rota FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Rota FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438657
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Jerez FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Jerez FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438656
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Cadiz FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Cadiz FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438655
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Algeciras FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Algeciras FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438654
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Arcos FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Arcos FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438653
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Almeria FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Almeria FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438652
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7TV Andalucia FHD " tvg-logo="" group-title="ES - TDT",|ES| 7TV Andalucia FHD 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438651
+#EXTINF:-1 tvg-id="EITB Basque" tvg-name="|ES| ETB BASQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1200px-ETB_Basque_2022_logo.svg.png" group-title="ES - TDT",|ES| ETB BASQUE
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366765
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Televisa HD" tvg-logo="http://logo.solanaflix.com/images/logos/rm_Bwv81qpGmgAEbeMFRsu7bp6Ti8P49N3orkgTcb3Wkw7uqDlA9miU-jevIfueHSgne4HdN7nEgKO7J3u7HJEcxSnmXLhGs1wrAuZlRNuM.png" group-title="ES - TDT",|ES| Televisa HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366783
+#EXTINF:-1 tvg-id="Canal Parlamento" tvg-name="|ES| Canal Parlamento" tvg-logo="https://www.thelogodb.com/images/media/logo/qypyvv1437950573.png" group-title="ES - TDT",|ES| Canal Parlamento
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366786
+#EXTINF:-1 tvg-id="El País" tvg-name="|ES| El País FHD" tvg-logo="http://logo.solanaflix.com/images/logos/vkJ6_8dfzS7ttUyVoeBGAYcmEhc5X1TDMbqX1OzPMf9kF5grFhEyq4nWCPgPX5hIueHktHjvjriZnnGaN2ZpzQ.png" group-title="ES - TDT",|ES| El País FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366787
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Canal Málaga" tvg-logo="http://logo.solanaflix.com/images/logos/QmsU_GYHPPyc0rcs6gX94_pDBqp2lfZOS-6Jbr2A_aI54En5b9tCuwt2WHkxwmQU54uNqtF81DPrQiCN5lrFTlzZbZJqWaiH8NoLvwhJ4FU.png" group-title="ES - TDT",|ES| Canal Málaga
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366788
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TeleBilbao" tvg-logo="http://graph.facebook.com/312994995454199/picture?width=320&height=320" group-title="ES - TDT",|ES| TeleBilbao
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366789
+#EXTINF:-1 tvg-id="PTV Sevilla" tvg-name="|ES| PTV Sevilla" tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="ES - TDT",|ES| PTV Sevilla
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366790
+#EXTINF:-1 tvg-id="PTV Malaga" tvg-name="|ES| PTV Málaga" tvg-logo="http://logo.solanaflix.com/images/logos/r12_RHJowbNKgbp-jJoE-Vo-EowCF5D9pVEHbMkNQt6HMGqdxKn9WPkBxcST1mlW.png" group-title="ES - TDT",|ES| PTV Málaga
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366791
+#EXTINF:-1 tvg-id="PTV Granada" tvg-name="|ES| PTV Granada" tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="ES - TDT",|ES| PTV Granada
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366792
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Alcarria TV" tvg-logo="http://logo.solanaflix.com/images/logos/ZQf56YhIBm0jJhuBOaTsCpr5lbYF0Ff9aAlclURmp1xShyDeKtWnh1HmARNwaXX1F1XMRnBz7IBk4xzc1ZPLbCDEWJeRuaMUVjOCiFMkuBmtHITgG2UEberxX3o9fnx1.png" group-title="ES - TDT",|ES| Alcarria TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366794
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Imás TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/cyNlLc-7ofOC7y5hq0-Fv487RNXjj7lOcLDYDwBNj3Z-gl60QKmc77ifvV5aMXB_AvwXptPu8SVfntUG2unziQh4kJEHGFhwZxxoh0-xerI.png" group-title="ES - TDT",|ES| Imás TV HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366795
+#EXTINF:-1 tvg-id="Teleonuba.TV" tvg-name="|ES| Teleonuba TV" tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png" group-title="ES - TDT",|ES| Teleonuba TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366796
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Elche Cableworld TV HD (1080P)" tvg-logo="http://logo.solanaflix.com/images/logos/XL5pwVPPtKOfpaknz3s6zKSNHPKU4aQEeXbQmO0CpfwWVNhGabEg_vAZOFtztbhAAH96D2XjS8d7dE45E7VrZNunp4YaoUyGtQc2ljvL83Q.jpg" group-title="ES - TDT",|ES| Elche Cableworld TV HD (1080P)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366799
+#EXTINF:-1 tvg-id="TEVEO" tvg-name="|ES| teve.cat HD" tvg-logo="http://logo.solanaflix.com/images/logos/8lR_rlnfg3da45ZC7NcmVRErre8LmOxP1SV1-X0TbcKECOaH7QuqaZhERctbdQ_qxVSp7JG2bW_5ot5yd1q-1g.jpg" group-title="ES - TDT",|ES| teve.cat HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366800
+#EXTINF:-1 tvg-id="betevé" tvg-name="|ES| Betevé CAT" tvg-logo="http://logo.solanaflix.com/images/logos/WdhAk-9Qy_-euyT8lBaGvks2w6l8bbh0mx5VxvgEOZ4oSUIYgex7dkpsXIGCFBmm.jpg" group-title="ES - TDT",|ES| Betevé CAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366801
+#EXTINF:-1 tvg-id="Negocios TV" tvg-name="|ES| Negocios TV HD" tvg-logo="http://logo.solanaflix.com/images/logos/WxVmHot7T8vE8JOm2gmluM2e7wlOwkeC6XgHVgZDD1YdgJPliC5LCxNxFj06cQ4bbW2Wwe97n5b_bQnh-08VUt5JJeOhdDOHfX-KiYIlM5UznUU_RAUb4ho1qVB15cnuL7VOvZ7XNdzHI682pjf3IA.png" group-title="ES - TDT",|ES| Negocios TV HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366802
+#EXTINF:-1 tvg-id="HispanTV.es" tvg-name="|ES| Hispan TV" tvg-logo="http://logo.solanaflix.com/images/logos/1WnpSTqgr4A6WH2oEJw7Mq7YtMcxcs5qKV11fbD1d69JkaR5-wJ2gcYXbRc5mD8c98zFsN_CoPiWggZ_83IfyOyopbXjR5RA6pZ8axlr4KA.jpg" group-title="ES - TDT",|ES| Hispan TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366803
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Tele Elda HD (1080P)" tvg-logo="https://scontent.fcmn3-1.fna.fbcdn.net/v/t39.30808-1/305213734_747032436494840_8091889848924026118_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=c6021c&_nc_ohc=QU8EMzr8oqQAX8O25I4&_nc_ht=scontent.fcmn3-1.fna&oh=00_AfAQHumdEoYh_tICkij3JwIVJyjDgRZVi2eWbKiKrie9FQ&oe=643E9623" group-title="ES - TDT",|ES| Tele Elda HD (1080P)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366804
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NORTEvisión" tvg-logo="http://logo.solanaflix.com/images/logos/WdhAk-9Qy_-euyT8lBaGvks2w6l8bbh0mx5VxvgEOZ6j0CRPeW3RUzHyPS6usCI2DDE--XQdKZbbz6-s2zHTwA.png" group-title="ES - TDT",|ES| NORTEvisión
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366805
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Cadena Elite" tvg-logo="http://logo.solanaflix.com/images/logos/gu0tJjP4Ly0ZGG2fKCCFLHLwH7mxvtGTjnwWGQacGo-C96eV1ZKIQcaeXrjzAkOB.png" group-title="ES - MUSICA",|ES| Cadena Elite
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366806
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Molahits TV" tvg-logo="http://logo.solanaflix.com/images/logos/I0OD2_vZxKvS-N_MjaqnbvdpDUZTJBMnfb53XpJTZ1kdgSjkEsES_1b_SJQ9xYzI.png" group-title="ES - MUSICA",|ES| Molahits TV
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366807
+#EXTINF:-1 tvg-id="" tvg-name="|ES| All Flamenco HD (1080P)" tvg-logo="http://logo.solanaflix.com/images/logos/GEwJDG9wU4wy2p5foY7NY_x8evLbo8PR1e2bijM38dqwERm7afa3IBry5uIFDauTGMSWXdM3XEI8NdZ1bgn_H9C-ynUE157iIaeAwtXG3ec.png" group-title="ES - MUSICA",|ES| All Flamenco HD (1080P)
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366808
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Inter Almeria" tvg-logo="https://noos.vip/logo/ES/interalmeria.png" group-title="ES - TDT",|ES| Inter Almeria
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366810
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Vision Seis HD" tvg-logo="" group-title="ES - TDT",|ES| Vision Seis HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/366812
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 1" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 1
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438231
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 10" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 10
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438240
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 11" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 11
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438241
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 12" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 12
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438242
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 13" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 13
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438243
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 14" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 14
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438244
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 15" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 15
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438245
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 2" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438232
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 3" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438233
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 4" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 4
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438234
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 5" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 5
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438235
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 6" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 6
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438236
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 7" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 7
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438237
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 8" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 8
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438238
+#EXTINF:-1 tvg-id="" tvg-name="2RFEF 9" tvg-logo="http://trastras.eu:2083/images/Logo_Segunda_RFEF.png" group-title="ES - SEGUNDA FEDERACION",2RFEF 9
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438239
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="http://trastras.eu:2083/images/fef1.png" group-title="ES - FEF TV",FEF TV 1
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438212
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="http://trastras.eu:2083/images/fef10.png" group-title="ES - FEF TV",FEF TV 10
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438221
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="http://trastras.eu:2083/images/fef11.png" group-title="ES - FEF TV",FEF TV 11
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438222
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="http://trastras.eu:2083/images/fef12.png" group-title="ES - FEF TV",FEF TV 12
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438223
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="http://trastras.eu:2083/images/fef13.png" group-title="ES - FEF TV",FEF TV 13
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438224
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14" tvg-logo="http://trastras.eu:2083/images/fef14.png" group-title="ES - FEF TV",FEF TV 14
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438225
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15" tvg-logo="http://trastras.eu:2083/images/fef15.png" group-title="ES - FEF TV",FEF TV 15
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438226
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 16" tvg-logo="http://trastras.eu:2083/images/fef16.png" group-title="ES - FEF TV",FEF TV 16
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438227
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 17" tvg-logo="http://trastras.eu:2083/images/fef17.png" group-title="ES - FEF TV",FEF TV 17
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438228
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 18" tvg-logo="http://trastras.eu:2083/images/fef18.png" group-title="ES - FEF TV",FEF TV 18
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438229
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 19" tvg-logo="http://trastras.eu:2083/images/fef19.png" group-title="ES - FEF TV",FEF TV 19
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438230
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="http://trastras.eu:2083/images/fef2.png" group-title="ES - FEF TV",FEF TV 2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438213
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3" tvg-logo="http://trastras.eu:2083/images/fef3.png" group-title="ES - FEF TV",FEF TV 3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438214
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4" tvg-logo="http://trastras.eu:2083/images/fef4.png" group-title="ES - FEF TV",FEF TV 4
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438215
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5" tvg-logo="http://trastras.eu:2083/images/fef5.png" group-title="ES - FEF TV",FEF TV 5
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438216
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6" tvg-logo="http://trastras.eu:2083/images/fef6.png" group-title="ES - FEF TV",FEF TV 6
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438217
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7" tvg-logo="http://trastras.eu:2083/images/fef7.png" group-title="ES - FEF TV",FEF TV 7
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438218
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8" tvg-logo="http://trastras.eu:2083/images/fef8.png" group-title="ES - FEF TV",FEF TV 8
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438219
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9" tvg-logo="http://trastras.eu:2083/images/fef9.png" group-title="ES - FEF TV",FEF TV 9
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438220
+#EXTINF:-1 tvg-id="" tvg-name="░▒▓█ Ⓢ ES | NETFLIX Ⓢ █▓▒░" tvg-logo="" group-title="ES - NETFLIX",░▒▓█ Ⓢ ES | NETFLIX Ⓢ █▓▒░
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438246
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Ninos HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Ninos HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438255
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX DRAMA HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX DRAMA HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438254
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Sci-Fi HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Sci-Fi HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438253
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Historia HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Historia HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438252
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Television HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Television HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438251
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Español HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Español HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438250
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Películas HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX Películas HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438249
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE + HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX CINE + HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438248
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX FLOOXER" tvg-logo="" group-title="ES - NETFLIX",ES | NETFLIX FLOOXER
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438453
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX NEOX" tvg-logo="" group-title="ES - NETFLIX",ES | NETFLIX NEOX
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438452
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX NOVA" tvg-logo="" group-title="ES - NETFLIX",ES | NETFLIX NOVA
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438451
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE HD" tvg-logo="https://i.imgur.com/3i0Vbg1.png" group-title="ES - NETFLIX",ES | NETFLIX CINE HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438247
+#EXTINF:-1 tvg-id="" tvg-name="▼•●• FREE TV SAS •●• ▼" tvg-logo="https://iili.io/jog8wF.md.png" group-title="ES - ESTRENOS & SERIES 24/7",▼•●• FREE TV SAS •●• ▼
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438592
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS TERROR FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS TERROR FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438598
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS SABER MAS FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS SABER MAS FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438597
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS LIVE FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS LIVE FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438596
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS FAMILIA FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS FAMILIA FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438595
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS ESTELAR FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS ESTELAR FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438594
+#EXTINF:-1 tvg-id="" tvg-name="|ES| FREE TV SAS ACCION FHD" tvg-logo="" group-title="ES - ESTRENOS & SERIES 24/7",|ES| FREE TV SAS ACCION FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438593
+#EXTINF:-1 tvg-id="" tvg-name="▼•●• MoviStar Series •●• ▼" tvg-logo="https://iili.io/jog8wF.md.png" group-title="ES - ESTRENOS & SERIES 24/7",▼•●• MoviStar Series •●• ▼
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438583
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 7 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 7 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438591
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 6 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 6 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438590
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 5 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 5 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438589
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 4 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 4 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438588
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 3 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 3 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438587
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 2 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 2 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438586
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series 1 " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series 1 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438585
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M+ Series info " tvg-logo="https://iili.io/ShFIXs.md.png" group-title="ES - ESTRENOS & SERIES 24/7",|ES| M+ Series info 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438584
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 15 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 15 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438582
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 14 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 14 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438581
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 13 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 13 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438580
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 12 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 12 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438579
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 11 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 11 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438578
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 10 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 10 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438577
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 9 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 9 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438576
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 8 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 8 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438575
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 7 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 7 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438574
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 6 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 6 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438573
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 5 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 5 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438572
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 4 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 4 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438571
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 3 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 3 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438570
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 2 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 2 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438569
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos 1 ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos 1 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438568
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ M+ Estrenos info ᴴᴰ" tvg-logo="https://iili.io/jnCyxt.md.png" group-title="ES - TAQUILLAS",ES◈ M+ Estrenos info ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438567
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 13 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 13 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438566
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 12 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 12 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438565
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 11 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 11 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438564
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 10 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 10 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438563
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 9 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 9 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438562
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 8 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 8 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438561
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 7 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 7 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438560
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 6 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 6 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438559
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 5 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 5 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438558
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 4 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 4 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438557
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 3 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 3 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438556
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 2 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 2 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438555
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos 1 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos 1 ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438554
+#EXTINF:-1 tvg-id="" tvg-name="ES◈ Netflix Estrenos info ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="ES - NETFLIX",ES◈ Netflix Estrenos info ᴴᴰ
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438553
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 01 HD" tvg-logo="https://funkymonkeybox.com:443/images/jhqXUQ-zcaMAfRBjjBBPi-j-1KmbWRmUi3FKgTlj29DQw3U0WHYLsOSPdz4W7wCIphGN2jl2qkK45UtjJ9sZFv5KcrGFXqP0s-BljyF0KZbuH7f9tsezm9SQ8k6RAGGk.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 01 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438599
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 02 HD" tvg-logo="https://funkymonkeybox.com:443/images/jhqXUQ-zcaMAfRBjjBBPi-j-1KmbWRmUi3FKgTlj29DQw3U0WHYLsOSPdz4W7wCIphGN2jl2qkK45UtjJ9sZFv5KcrGFXqP0s-BljyF0KZbuH7f9tsezm9SQ8k6RAGGk.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 02 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438600
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 03 HD" tvg-logo="https://funkymonkeybox.com:443/images/jhqXUQ-zcaMAfRBjjBBPi-j-1KmbWRmUi3FKgTlj29DQw3U0WHYLsOSPdz4W7wCIphGN2jl2qkK45UtjJ9sZFv5KcrGFXqP0s-BljyF0KZbuH7f9tsezm9SQ8k6RAGGk.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 03 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438601
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 04 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 04 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438602
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 05 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 05 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438603
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 06 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 06 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438604
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 07 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 07 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438605
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 08 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 08 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438606
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 09 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 09 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438607
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 10 HD ( Joshua vs nganou )" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 10 HD ( Joshua vs nganou )
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438608
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 11 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 11 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438609
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 12 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 12 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438610
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 13 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 13 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438611
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 14 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 14 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438612
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 15 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 15 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438613
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 16 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 16 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438614
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 17 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 17 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438615
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 18 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 18 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438616
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 19 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 19 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438617
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 20 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 20 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438618
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 21 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 21 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438619
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 22 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 22 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438620
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 23 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 23 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438621
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 24 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 24 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438622
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 25 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 25 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438623
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 26 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 26 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438624
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 27 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 27 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438625
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 28 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 28 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438626
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 29 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 29 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438627
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 30 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 30 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438628
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 31 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 31 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438629
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 32 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 32 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438630
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 33 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 33 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438631
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 34 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 34 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438632
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 35 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 35 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438633
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 36 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 36 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438634
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 37 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 37 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438635
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 38 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 38 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438636
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 39 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 39 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438637
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 40 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 40 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438638
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 41 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 41 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438639
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 42 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 42 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438640
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 43 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 43 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438641
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 44 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 44 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438642
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 45 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 45 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438643
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 46 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 46 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438644
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 47 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 47 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438645
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 48 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 48 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438646
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 49 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 49 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438647
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 50 HD" tvg-logo="" group-title="ES - DAZN EVENTOS",DAZN Eventos 50 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438648
+#EXTINF:-1 tvg-id="" tvg-name="|LAT| Garage TV FHD" tvg-logo="https://csinfomotordotcom.files.wordpress.com/2014/03/cartel-garage-2013.jpg" group-title="ES - DEPORTES",|LAT| Garage TV FHD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438667
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438701
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV Live SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438700
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD LAT" tvg-logo="" group-title="ES - MUSICA",MTV Live HD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438699
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD LAT" tvg-logo="" group-title="ES - MUSICA",MTV Live FHD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438698
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV Hits SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438697
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD LAT" tvg-logo="" group-title="ES - MUSICA",MTV HD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438696
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD LAT" tvg-logo="" group-title="ES - MUSICA",MTV FHD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438695
+#EXTINF:-1 tvg-id="" tvg-name="MTV Club SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV Club SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438694
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV 80s SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438693
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s SD LAT" tvg-logo="" group-title="ES - MUSICA",MTV 00s SD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438692
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD LAT" tvg-logo="" group-title="ES - MUSICA",MTV 00s HD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438691
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s FHD LAT" tvg-logo="" group-title="ES - MUSICA",MTV 00s FHD LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438690
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits LAT" tvg-logo="" group-title="ES - MUSICA",MTV Hits LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438689
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live LAT" tvg-logo="" group-title="ES - MUSICA",MTV Live LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438688
+#EXTINF:-1 tvg-id="" tvg-name="HTV LAT" tvg-logo="" group-title="ES - MUSICA",HTV LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438687
+#EXTINF:-1 tvg-id="" tvg-name="MTV LAT" tvg-logo="" group-title="ES - MUSICA",MTV LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438686
+#EXTINF:-1 tvg-id="" tvg-name="Canal CM LAT" tvg-logo="" group-title="ES - MUSICA",Canal CM LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438678
+#EXTINF:-1 tvg-id="" tvg-name="BandaMAX LAT" tvg-logo="" group-title="ES - MUSICA",BandaMAX LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438677
+#EXTINF:-1 tvg-id="" tvg-name="MTV Club LAT" tvg-logo="" group-title="ES - MUSICA",MTV Club LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438676
+#EXTINF:-1 tvg-id="" tvg-name="Musica y Mas LAT" tvg-logo="" group-title="ES - MUSICA",Musica y Mas LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438675
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel LAT" tvg-logo="" group-title="ES - MUSICA",Concert Channel LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438674
+#EXTINF:-1 tvg-id="" tvg-name="Telehit LAT" tvg-logo="" group-title="ES - MUSICA",Telehit LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438673
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s LAT" tvg-logo="" group-title="ES - MUSICA",MTV 00s LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438671
+#EXTINF:-1 tvg-id="" tvg-name="Vme Kids LAT" tvg-logo="" group-title="ES - MUSICA",Vme Kids LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438670
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo LAT" tvg-logo="" group-title="ES - MUSICA",ZooMoo LAT
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438669
+#EXTINF:-1 tvg-id="" tvg-name="|ES| PTV Cordoba" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/5bd3712cb5dff175468a969e21ab67e3.jpg" group-title="ES - TDT",|ES| PTV Cordoba
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438650
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Portugal MotoGP" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Portugal MotoGP
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438726
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Portugal Moto2" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Portugal Moto2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438725
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Portugal Moto3" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Portugal Moto3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438724
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Qatar MotoGP" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Qatar MotoGP
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438723
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Qatar Moto2" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Qatar Moto2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438722
+#EXTINF:-1 tvg-id="" tvg-name="Replay Gran Premio Qatar Moto3" tvg-logo="http://jumeke.teamcdn.in:80/images/f4cdd1f041da194f3d632e4d65915fa1.png" group-title="ES - REPECTICION F1 y MotoGP",Replay Gran Premio Qatar Moto3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438721
+#EXTINF:-1 tvg-id="" tvg-name="Replay GP Japon F1 HD" tvg-logo="http://jumeke.teamcdn.in:80/images/ec8ce0f656bc2775f88ce569b46d900b.png" group-title="ES - REPECTICION F1 y MotoGP",Replay GP Japon F1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438720
+#EXTINF:-1 tvg-id="" tvg-name="Replay GP Australia F1 HD" tvg-logo="http://jumeke.teamcdn.in:80/images/ec8ce0f656bc2775f88ce569b46d900b.png" group-title="ES - REPECTICION F1 y MotoGP",Replay GP Australia F1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438719
+#EXTINF:-1 tvg-id="" tvg-name="Replay GP Arabia Saudi F1 HD" tvg-logo="http://jumeke.teamcdn.in:80/images/ec8ce0f656bc2775f88ce569b46d900b.png" group-title="ES - REPECTICION F1 y MotoGP",Replay GP Arabia Saudi F1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438718
+#EXTINF:-1 tvg-id="" tvg-name="Replay GP Barein F1 HD" tvg-logo="http://jumeke.teamcdn.in:80/images/ec8ce0f656bc2775f88ce569b46d900b.png" group-title="ES - REPECTICION F1 y MotoGP",Replay GP Barein F1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438717
+#EXTINF:-1 tvg-id="" tvg-name="Replay GP Memorables F1 HD" tvg-logo="http://jumeke.teamcdn.in:80/images/4fbc187bf9c4700c1de0897feea3f2c0.png" group-title="ES - REPECTICION F1 y MotoGP",Replay GP Memorables F1 HD
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438716
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION " tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438704
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 1" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 1
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438705
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 2" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 2
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438706
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 3" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 3
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438707
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 4" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 4
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438708
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 5" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 5
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438709
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 6" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 6
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438710
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 7" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 7
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438711
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 8" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 8
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438712
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 9" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 9
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438713
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 10" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 10
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438714
+#EXTINF:-1 tvg-id="" tvg-name="◈ REPLAY HYPERMOTION 11" tvg-logo="http://jumeke.teamcdn.in:80/images/f52c54a87e3c839326c90c340d313da0.png" group-title="ES - REPECTICION DE FUTBOL",◈ REPLAY HYPERMOTION 11
+http://79306.tvdev.club:8080/TV-49703898/468045796506/438715
